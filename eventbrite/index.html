@@ -1,0 +1,35 @@
+---
+
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+	{% for meeting in site.meetings limit:1 %}
+
+	<p><strong>{{ meeting.title }}</strong></p>
+
+	<p><strong><u>Abstract</u></strong></p>
+
+	<p>{{ meeting.abstract }}</p>
+
+	<p><strong><u>{{meeting.speaker}}'s Bio</u></strong></p>
+
+	<p>{{ meeting.bio }}</p>
+
+
+	<p><strong><u>Schedule</u></strong></p>
+
+	<p>
+		6:00 p.m. - Networking and Pizza <br/>
+		6:30 p.m. - Main Presentation <br/>
+		8:30 p.m. - Door Prizes <br/>
+	</p>
+
+	{% endfor %}
+</body>
+</html>
