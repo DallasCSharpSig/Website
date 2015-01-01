@@ -24,6 +24,9 @@
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
         <!--flex slider css-->
         <link href="css/flexslider.css" rel="stylesheet">
+        <link href="css/csharpsig.css" rel="stylesheet">
+
+
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -297,96 +300,7 @@
             </div><!--container-->
         </section><!--latest news-->
 
-        <section id="footer-defoult" class="padding-60">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3 margin-btm20">
-                        <div class="footer-column">
-                            <h3>About us</h3>
-                            <p class="margin-btm20">
-                                Lorem ipsum ex vix illud nonummy, novum tation et his. At vix scriptaset patrioque scribentur, at pro fugit erts verterem molestiae, sed et vivendo ali Lorem ipsum ex vix illud nonummy, novum tation et his. At vix scripta patrioque scribentur.
-                            </p>
-
-                        </div><!--footer columns end-->
-                    </div>
-                    <div class="col-md-3 margin-btm20">
-                        <div class="footer-column">
-                            <h3>Latest post</h3>
-                            <ul class="list-unstyled post-list">
-                                <li><a href="#" class="hover-color">Blog slide post</a></li>
-                                <li><a href="#" class="hover-color">Lorem ipsum dollor</a></li>
-                                <li><a href="#" class="hover-color">Blog image post</a></li>
-                                <li><a href="#" class="hover-color">Blog Video post</a></li>
-                                <li><a href="#" class="hover-color">Lorem ipsum dollor</a></li>
-                            </ul>
-
-                        </div><!--footer columns end-->
-                    </div>
-                    <div class="col-md-3 margin-btm20">
-                        <div class="footer-column">
-                            <h3>Latest work</h3>
-                            <ul class="list-unstyled work-list">
-                                <li><a href="#">
-                                        <img src="img/img-1.jpg" class="img-responsive" alt=""  data-toggle="tooltip" data-placement="top" title="" data-original-title="Work Title">
-                                    </a></li>
-                                <li><a href="#">
-                                        <img src="img/img-2.jpg" class="img-responsive" alt=""  data-toggle="tooltip" data-placement="top" title="" data-original-title="Work Title">
-                                    </a></li>
-                                <li><a href="#">
-                                        <img src="img/img-3.jpg" class="img-responsive" alt=""  data-toggle="tooltip" data-placement="top" title="" data-original-title="Work Title">
-                                    </a></li>
-                                <li><a href="#">
-                                        <img src="img/img-4.jpg" class="img-responsive" alt=""  data-toggle="tooltip" data-placement="top" title="" data-original-title="Work Title">
-                                    </a></li>
-                                <li><a href="#">
-                                        <img src="img/img-5.jpg" class="img-responsive" alt=""  data-toggle="tooltip" data-placement="top" title="" data-original-title="Work Title">
-                                    </a></li>
-                                <li><a href="#">
-                                        <img src="img/img-6.jpg" class="img-responsive" alt=""  data-toggle="tooltip" data-placement="top" title="" data-original-title="Work Title">
-                                    </a></li>
-                                <li><a href="#">
-                                        <img src="img/img-2.jpg" class="img-responsive" alt=""  data-toggle="tooltip" data-placement="top" title="" data-original-title="Work Title">
-                                    </a></li>
-                                <li><a href="#">
-                                        <img src="img/img-1.jpg" class="img-responsive" alt=""  data-toggle="tooltip" data-placement="top" title="" data-original-title="Work Title">
-                                    </a></li>
-                                <li><a href="#">
-                                        <img src="img/img-3.jpg" class="img-responsive" alt=""  data-toggle="tooltip" data-placement="top" title="" data-original-title="Work Title">
-                                    </a></li>
-                            </ul>
-                        </div><!--footer columns end-->
-                    </div>
-                    <div class="col-md-3 margin-btm20">
-                        <div class="footer-column">
-                            <h3>Get in touch</h3>
-                            <ul class="list-unstyled contact-list margin-btm20">
-                                <li><i class="ion-home"></i> 124,munnawali<br>Jaipur,302012</li>
-                                <li><i class="ion-ios7-telephone"></i> <strong>Phone:</strong> +91 1234567890</li>
-                                <li><i class="ion-ios7-email"></i> <strong>Email:</strong> mail@domain.com</li>
-                                <li><i class="ion-ios7-world"></i> <strong>Website:</strong> http://www.site.com</li>
-                            </ul>
-                            <ul class="list-unstyled list-inline social">
-                                <li><a href="#"><i class="ion-social-facebook-outline"  data-toggle="tooltip" data-placement="top" title="" data-original-title="Like On Facebook"></i></a></li>
-                                <li><a href="#"><i class="ion-social-twitter-outline"  data-toggle="tooltip" data-placement="top" title="" data-original-title="Follow On twitter"></i></a></li>
-                                <li><a href="#"><i class="ion-social-googleplus-outline"  data-toggle="tooltip" data-placement="top" title="" data-original-title="Follow On googleplus"></i></a></li>
-                                <li><a href="#"><i class="ion-social-pinterest-outline"  data-toggle="tooltip" data-placement="top" title="" data-original-title="pinterest"></i></a></li>
-                                <li><a href="#"><i class="ion-social-skype-outline"  data-toggle="tooltip" data-placement="top" title="" data-original-title="skype"></i></a></li>
-
-                            </ul>
-                        </div><!--footer columns end-->
-                    </div>
-                </div><!--row end -->
-                <div class="divied-40"></div>
-                <div class="row">
-                    <div class="col-md-12 text-center margin-btm20">
-                        <a href="index.html"><img src="img/logo-white.png"></a>
-                    </div>
-                    <div class="col-md-12 text-center">
-                        <span>&copy; copyright 2014.All right reserved.</span>
-                    </div>
-                </div>
-            </div><!--container-->
-        </section><!--footer default end-->
+        {% include footer.html %}
         <!--scripts-->
         <script src="js/jquery-1.10.2.min.js" type="text/javascript"></script>
         <script src="js/jquery.easing.1.3.min.js" type="text/javascript"></script>
