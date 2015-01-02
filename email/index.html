@@ -6,7 +6,7 @@ layout: justbootstrap
 
 {% for meeting in site.meetings limit:1 %}
 
-<p>Join us Thursday evening to talk with {{ meeting.speaker}}!</p>
+<p>Join us Thursday {{ meeting.date | date: "%B %-d" }}, to talk with {{ meeting.speaker}} at the Dallas C# Sig!</p>
 
 <p><a href="{{ meeting.eventbrite }}">Register for the meeting here.</a></p>
 
@@ -21,7 +21,7 @@ layout: justbootstrap
 <p>{{ meeting.bio }}</p>
 
 <p><strong><u>Schedule</u></strong></p>
-Date: {{ meeting.date | date: "%B %-d, %Y" }}
+{{ meeting.date | date: "%B %-d, %Y" }}
 {% include schedule.html %}
 
 <p><a href="{{ meeting.eventbrite }}">Register for the meeting here.</a></p>
