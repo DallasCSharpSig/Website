@@ -2,3 +2,26 @@
 	font-size: 28px;
 	color: #fff;
 }
+
+#current-meeting h1{
+	margin: 30px;
+	font-size: 36px;
+	font-weight: 600;
+}
+
+#current-meeting h2 a{
+	color: #333
+}
+
+#current-meeting .blog-items {
+	border: none;
+}
+
+#current-meeting .blog-items .list-inline>li{
+	padding: 0;
+}
+
+#current-meeting .blog-items i{
+	font-size: 24px;
+	padding: 5px 10px;
+}

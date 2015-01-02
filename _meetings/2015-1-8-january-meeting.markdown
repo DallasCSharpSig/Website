@@ -5,7 +5,7 @@ title: Visual Studio 2015 Goodness
 
 speaker: Adam Hill
 
-twitter:
+twitter: adamhill
 
 github:
 

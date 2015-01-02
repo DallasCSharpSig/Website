@@ -34,6 +34,7 @@
         <![endif]-->
     </head>
     <body>
+
         {% include navbar.html %}
 
         <!--main flex slider start-->
@@ -68,239 +69,44 @@
             </div><!--slider overlay-->
         </section>
         <!--main flex slider end-->
-        <!--services-->
-        <section id="services-sec" class="padding-60">
+
+
+        <section id="current-meeting">
             <div class="container">
-                <div class="row">
-                    <div class="col-md-12 text-center margin-btm40">
-                        <h1>Miron HTML5 CSS3 fully responsive website template  </h1>
-                        <h2 class="subtitle">With Clean and Valid Code.</h2>
-                    </div>
-                    <div class="col-md-3 margin-btm20">
-                        <div class="services-box wow animated fadeInLeft" data-wow-delay="0.2s">
-                            <i class="ion-ios7-heart-outline"></i>
-                            <h3>Make With Love</h3>
-                            <p>
-                                Pellentesque in tempor metus. Vestibulum sit amet elit justo, vitae gravida erat. Nam hendrerit leo non enim consectetur tristique eleifend nec turpis. Nulla fermentum, ante dapibus
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 margin-btm20">
-                        <div class="services-box wow animated fadeInLeft" data-wow-delay="0.4s">
-                            <i class="ion-social-twitter-outline"></i>
-                            <h3>Bootstrap3</h3>
-                            <p>
-                                Pellentesque in tempor metus. Vestibulum sit amet elit justo, vitae gravida erat. Nam hendrerit leo non enim consectetur tristique eleifend nec turpis. Nulla fermentum, ante dapibus
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 margin-btm20">
-                        <div class="services-box wow animated fadeInLeft" data-wow-delay="0.6s">
-                            <i class="ion-android-developer"></i>
-                            <h3>Clean Code</h3>
-                            <p>
-                                Pellentesque in tempor metus. Vestibulum sit amet elit justo, vitae gravida erat. Nam hendrerit leo non enim consectetur tristique eleifend nec turpis. Nulla fermentum, ante dapibus
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 margin-btm20">
-                        <div class="services-box wow animated fadeInLeft" data-wow-delay="0.8s">
-                            <i class="ion-ios7-monitor-outline"></i>
-                            <h3>Fully Responsive</h3>
-                            <p>
-                                Pellentesque in tempor metus. Vestibulum sit amet elit justo, vitae gravida erat. Nam hendrerit leo non enim consectetur tristique eleifend nec turpis. Nulla fermentum, ante dapibus
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div><!--container end-->
-        </section>
-        <!--services end-->
-        <section id="recent-work" class="padding-60">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 text-center margin-btm40 wow animated bounceIn">
-                        <h1>Recently Work</h1>
-                        <h2 class="subtitle"><i class="ion-image"></i></h2>
-                    </div>
-                    <div class="col-md-12">
-                        <ul class=" portfolio-filters text-center">
-                            <li class="filter" data-filter="all">all</li>
-                            <li class="filter" data-filter="design">design</li>
-                            <li class="filter" data-filter="html">HTML5</li>
-                            <li class="filter" data-filter="wordpress">Wordpress</li>
-                            <li class="filter" data-filter="seo">Seo</li>
-                        </ul><!--portfolio filter lisr-->
+                
+                {% for meeting in site.meetings limit:1 %}
+                
+                <div class="row col-md-12">
+                    <div class="blog-items margin-btm40">
+                        <h1 class="text-center">{{meeting.date | date: "%B" }} Meeting</h1>
+                        <h2><a href="{{ meeting.url | prepend: site.baseurl }}" class="hover-color">{{ meeting.title }}</a></h2>
+                        <ul class="list-inline blog-post-list">
+                            <li><i class="ion-calendar"></i>{{ meeting.date | date: "%B %-d, %Y" }}</li>
+                            <li>|</li>
+                            <li><i class="ion-ios7-person"></i>{{ meeting.speaker }}</li>
+                            <li>|</li>
+                            <li><a href="https://twitter.com/{{ meeting.twitter }}" class="hover-color"><i class="ion-social-twitter-outline"></i></a></li>
+                        </ul>
 
-                        <div id="grid" class="row">
-
-                            <div class="portfolio-item mix seo col-xs-12 col-sm-4">
-                                <a href="portfolio-single.html">
-                                    <div class="image-sec">
-                                        <img class="img-responsive" src="img/img-1.jpg" alt="Portfolio">
-                                        <div class="image-overlay">
-                                            <p><i class="ion-ios7-plus-empty"></i></p>
-                                        </div>
-                                    </div> <!--image-->
-                                </a>
-                            </div> <!--portfolio-item -->
-
-                            <div class="portfolio-item mix html seo col-xs-12 col-sm-4">
-                                <a href="portfolio-single.html">
-                                    <div class="image-sec">
-                                        <img class="img-responsive" src="img/img-2.jpg" alt="Portfolio">
-                                        <div class="image-overlay">
-                                            <p><i class="ion-ios7-plus-empty"></i></p>
-                                        </div>
-                                    </div> <!--image-->
-                                </a>
-                            </div> <!--portfolio-item -->
-
-                            <div class="portfolio-item mix wordpress html Design col-xs-12 col-sm-4">
-                                <a href="portfolio-single.html">
-                                    <div class="image-sec">
-                                        <img class="img-responsive" src="img/img-3.jpg" alt="Portfolio">
-                                        <div class="image-overlay">
-                                            <p><i class="ion-ios7-plus-empty"></i></p>
-                                        </div>
-                                    </div> <!--image-->
-                                </a>
-                            </div> <!--portfolio-item -->
-
-                            <div class="portfolio-item mix design col-xs-12 col-sm-4">
-                                <a href="portfolio-single.html">
-                                    <div class="image-sec">
-                                        <img class="img-responsive" src="img/img-4.jpg" alt="Portfolio">
-                                        <div class="image-overlay">
-                                            <p><i class="ion-ios7-plus-empty"></i></p>
-                                        </div>
-                                    </div> <!--image-->
-                                </a>
-                            </div> <!--portfolio-item -->
-
-                            <div class="portfolio-item mix html wordpress col-xs-12 col-sm-4">
-                                <a href="portfolio-single.html">
-                                    <div class="image-sec">
-                                        <img class="img-responsive" src="img/img-5.jpg" alt="Portfolio">
-                                        <div class="image-overlay">
-                                            <p><i class="ion-ios7-plus-empty"></i></p>
-                                        </div>
-                                    </div> <!--image-->
-                                </a>
-                            </div> <!--portfolio-item -->
-
-                            <div class="portfolio-item mix wordpress html design col-xs-12 col-sm-4">
-                                <a href="portfolio-single.html">
-                                    <div class="image-sec">
-                                        <img class="img-responsive" src="img/img-6.jpg" alt="Portfolio">
-                                        <div class="image-overlay">
-                                            <p><i class="ion-ios7-plus-empty"></i></p>
-                                        </div>
-                                    </div> <!--image-->
-                                </a>
-                            </div> <!--portfolio-item -->                                                   
-                        </div> <!--grid -->
-                        <div class="divied-40"></div><!--divide by 40px -->
-                        <div class="row">
-                            <div class="col-md-12 text-center">
-                                <a href="portfolio-3col.html" class="btn btn-theme btn-lg">View Portfolio</a>
-                            </div>
-                        </div><!--row-->
-                    </div><!--col-md-12-->
-                </div><!--row-->
-            </div><!--container end-->
-        </section><!--recent work-->
-
-        <section id="about-colored" class="padding-60">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 margin-btm20 text-center wow animated bounceIn">
-                        <h1>About Us</h1>
-                        <h2 class="subtitle"><i class="ion-ios7-people-outline"></i></h2>
-                    </div>
-                    <div class="col-sm-8 col-sm-offset-2 text-center margin-btm20">
+                        <h3>Abstract</h3>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pulvinar scelerisque dictum. Donec iaculis, diam sit amet suscipit feugiat, diam magna volutpat augue, sit amet varius nulla turpis sit amet lacus. Aenean faucibus, sem quis convallis lobortis. Aenean faucibus, sem quis convallis lobortis.
+                            {{ meeting.abstract}}
+                        </p>
+
+                        <h3>{{ meeting.speaker }}'s Bio</h3>
+                        <p>
+                            {{ meeting.bio }}
                         </p>
                     </div>
-                    <div class="col-sm-12 text-center">
-                        <ul class="list-unstyled list-inline social">
-                            <li><a href="#"><i class="ion-social-facebook-outline"  data-toggle="tooltip" data-placement="top" title="" data-original-title="Like On Facebook"></i></a></li>
-                            <li><a href="#"><i class="ion-social-twitter-outline"  data-toggle="tooltip" data-placement="top" title="" data-original-title="Follow On twitter"></i></a></li>
-                            <li><a href="#"><i class="ion-social-googleplus-outline"  data-toggle="tooltip" data-placement="top" title="" data-original-title="Follow On googleplus"></i></a></li>
-                            <li><a href="#"><i class="ion-social-rss-outline"  data-toggle="tooltip" data-placement="top" title="" data-original-title="rss"></i></a></li>
-                            <li><a href="#"><i class="ion-social-linkedin-outline"  data-toggle="tooltip" data-placement="top" title="" data-original-title="Follow On linkedin"></i></a></li>
-                            <li><a href="#"><i class="ion-social-pinterest-outline"  data-toggle="tooltip" data-placement="top" title="" data-original-title="pinterest"></i></a></li>
-                            <li><a href="#"><i class="ion-social-skype-outline"  data-toggle="tooltip" data-placement="top" title="" data-original-title="skype"></i></a></li>
-                            <li><a href="#"><i class="ion-social-dribbble-outline"  data-toggle="tooltip" data-placement="top" title="" data-original-title="dribbble"></i></a></li>
-                            <li><a href="#"><i class="ion-social-yahoo-outline"  data-toggle="tooltip" data-placement="top" title="" data-original-title="yahoo"></i></a></li>
-                            <li><a href="#"><i class="ion-social-vimeo-outline"  data-toggle="tooltip" data-placement="top" title="" data-original-title="vimeo"></i></a></li>
-                            <li><a href="#"><i class="ion-social-github-outline"  data-toggle="tooltip" data-placement="top" title="" data-original-title="github"></i></a></li>
-                        </ul>
-                    </div>
                 </div>
-            </div><!--container-->
-        </section><!--about Colored-->
-        <section id="latest-news" class="padding-60">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 margin-btm40 text-center wow animated fadeInUp">
-                        <h1>Latest News</h1>
-                        <h2 class="subtitle"><i class="ion-compose"></i></h2>
-                    </div>
-                    <div class="col-sm-4 col-xs-12 margin-btm20 wow animated fadeInUp" data-wow-delay="0.2s">
-                        <a href="blog-post.html">
-                            <div class="image-sec">
-                                <img class="img-responsive" src="img/img-6.jpg" alt="Portfolio">
-                                <div class="image-overlay">
-                                    <p>by author | 7 may | Design</p>
-                                </div>
-                            </div> <!--image-->                          
-                        </a>
-                        <div class="blog-desc">
-                            <h3><a href="blog-post.html" class="hover-color">Amazing theme for Multi-Purpose</a></h3>
-                            <p>
-                                aliqua.adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-sm-4 col-xs-12 margin-btm20 wow animated fadeInUp" data-wow-delay="0.4s">
-                        <a href="blog-post.html">
-                            <div class="image-sec">
-                                <img class="img-responsive" src="img/img-1.jpg" alt="Portfolio">
-                                <div class="image-overlay">
-                                    <p>by author | 7 may | Design</p>
-                                </div>
-                            </div> <!--image-->                          
-                        </a>
-                        <div class="blog-desc">
-                            <h3><a href="blog-post.html" class="hover-color">Amazing theme for Multi-Purpose</a></h3>
-                            <p>
-                                aliqua.adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-sm-4 col-xs-12 margin-btm20 wow animated fadeInUp" data-wow-delay="0.6s">
-                        <a href="blog-post.html">
-                            <div class="image-sec">
-                                <img class="img-responsive" src="img/img-2.jpg" alt="Portfolio">
-                                <div class="image-overlay">
-                                    <p>by author | 7 may | Design</p>
-                                </div>
-                            </div> <!--image-->                          
-                        </a>
-                        <div class="blog-desc">
-                            <h3><a href="blog-post.html" class="hover-color">Amazing theme for Multi-Purpose</a></h3>
-                            <p>
-                                aliqua.adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.
-                            </p>
-                        </div>
-                    </div>                   
-                </div><!--row-->                
-            </div><!--container-->
-        </section><!--latest news-->
+
+                {% endfor %}
+                
+            </div>
+        </section>  
 
         {% include footer.html %}
+
         <!--scripts-->
         <script src="js/jquery-1.10.2.min.js" type="text/javascript"></script>
         <script src="js/jquery.easing.1.3.min.js" type="text/javascript"></script>
