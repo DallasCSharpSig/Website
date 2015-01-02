@@ -2,6 +2,8 @@
 layout: justbootstrap
 ---
 
+<div class="container">
+
 {% for meeting in site.meetings limit:1 %}
 
 <p>Join us Thursday evening to talk with {{ meeting.speaker}}!</p>
@@ -37,3 +39,5 @@ Date: {{ meeting.date | date: "%B %-d, %Y" }}
 <p><a href="http://provenstyle.com">Michael's Blog</a></p>
 <p><a href="http://dotnetsurfers.com">Latish's Blog</a></p>
 <p><a href="http://improvingenterprises.com">Improving Enterprises</a></p>
+
+</div>
