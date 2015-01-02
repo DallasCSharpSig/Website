@@ -3,6 +3,10 @@
 	color: #fff;
 }
 
+#current-meeting{
+	margin-bottom: 40px;
+}
+
 #current-meeting h1{
 	margin: 30px;
 	font-size: 36px;
@@ -24,4 +28,12 @@
 #current-meeting .blog-items i{
 	font-size: 24px;
 	padding: 5px 10px;
+}
+
+#current-meeting a.btn{
+	width: 100%;
+	padding: 28px 56px;
+	font-weight: 600;
+	font-size: 20px;
+	margin-top: 20px;
 }

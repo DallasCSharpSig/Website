@@ -1,0 +1,39 @@
+---
+layout: justbootstrap
+---
+
+{% for meeting in site.meetings limit:1 %}
+
+<p>Join us Thursday evening to talk with {{ meeting.speaker}}!</p>
+
+<p><a href="{{ meeting.eventbrite }}">Register for the meeting here.</a></p>
+
+<p><strong>{{ meeting.title }}</strong></p>
+
+<p><strong><u>Abstract</u></strong></p>
+
+<p>{{ meeting.abstract }}</p>
+
+<p><strong><u>{{meeting.speaker}}'s Bio</u></strong></p>
+
+<p>{{ meeting.bio }}</p>
+
+<p><strong><u>Schedule</u></strong></p>
+Date: {{ meeting.date | date: "%B %-d, %Y" }}
+{% include schedule.html %}
+
+<p><a href="{{ meeting.eventbrite }}">Register for the meeting here.</a></p>
+
+{% endfor %}
+
+<p>You can see some of the older presentations at <a href="http://usergroup.tv/?cat=73">usergroup.tv.</a> Thanks to Shawn Weisfeld for recording these.</p>
+
+<p>We meet on the first Thursday of the month (at 6:30 p.m) at the Improving offices. Improving's address is One Hanover Park, 16633 Dallas Parkway, Suite 100, Addison, TX  75001.</p>
+
+<p>See you there...</p>
+<p>Michael, Latish, and Cas</p>
+
+<p><a href="http://dallas-csharp-sig.com">Dallas C# Sig</a></p>
+<p><a href="http://provenstyle.com">Michael's Blog</a></p>
+<p><a href="http://dotnetsurfers.com">Latish's Blog</a></p>
+<p><a href="http://improvingenterprises.com">Improving Enterprises</a></p>

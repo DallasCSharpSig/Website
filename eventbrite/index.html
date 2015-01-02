@@ -1,31 +1,21 @@
 ---
-
+layout: justbootstrap
 ---
 
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-	<link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-</head>
-<body>
-	{% for meeting in site.meetings limit:1 %}
+{% for meeting in site.meetings limit:1 %}
 
-	<p><strong>{{ meeting.title }}</strong></p>
+<p><strong>{{ meeting.title }}</strong></p>
 
-	<p><strong><u>Abstract</u></strong></p>
+<p><strong><u>Abstract</u></strong></p>
 
-	<p>{{ meeting.abstract }}</p>
+<p>{{ meeting.abstract }}</p>
 
-	<p><strong><u>{{meeting.speaker}}'s Bio</u></strong></p>
+<p><strong><u>{{meeting.speaker}}'s Bio</u></strong></p>
 
-	<p>{{ meeting.bio }}</p>
+<p>{{ meeting.bio }}</p>
 
+<p><strong><u>Schedule</u></strong></p>
 
-	<p><strong><u>Schedule</u></strong></p>
+{% include schedule.html %}
 
-	{% include schedule.html %}
-
-	{% endfor %}
-</body>
-</html>
+{% endfor %}
