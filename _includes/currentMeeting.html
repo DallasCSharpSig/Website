@@ -1,0 +1,46 @@
+<section id="current-meeting">
+    <div class="container">
+        
+        {% for meeting in site.meetings limit:1 %}
+        
+        <div class="row col-md-12">
+            <div class="blog-items margin-btm40">
+                <h1 class="text-center">{{meeting.date | date: "%B" }} Meeting</h1>
+                <h2><a href="{{ meeting.url | prepend: site.baseurl }}" class="hover-color">{{ meeting.title }}</a></h2>
+                <ul class="list-inline blog-post-list">
+                    <li>
+                        <i class="ion-calendar"></i>
+                        {{ meeting.date | date: "%B %-d, %Y" }}
+                    </li>
+                    <li>|</li>
+                    <li>
+                        <i class="ion-ios7-person"></i>{{ meeting.speaker }}
+                    </li>
+                    <li>|</li>
+                    <li>
+                        <a href="https://twitter.com/{{ meeting.twitter }}" class="hover-color">
+                            <i class="ion-social-twitter-outline"></i>
+                        </a>
+                    </li>
+                </ul>
+
+                <h3>Abstract</h3>
+                <p>
+                    {{ meeting.abstract}}
+                </p>
+
+                <h3>{{ meeting.speaker }}'s Bio</h3>
+                <p>
+                    {{ meeting.bio }}
+                </p>
+
+                <div class="col-sm-6 col-sm-offset-3 col-xs-12">
+                    <a href="{{ meeting.eventbrite }}" class="btn btn-lg btn-theme">Register For Meeting</a>
+                </div>
+            </div>
+        </div>
+
+        {% endfor %}
+        
+    </div>
+</section>
