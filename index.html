@@ -47,7 +47,7 @@
                             {% for meeting in site.meetings limit:1 %}
                             <li>
                                 <h1 class="slider-heading">{{meeting.title}}</h1>
-                                <p class="slider-desc">{{ meeting.date | date: "%B %-d, %Y" }}</p>
+                                <p class="slider-desc">{{ meeting.date | date: "%B %-d, %Y" }} | {{ meeting.speaker }}</p>
                                 <a href="{{ meeting.eventbrite }}" class="btn btn-lg btn-white">Register for meeting</a>
                             </li>
                             {% endfor %}

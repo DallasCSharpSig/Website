@@ -17,7 +17,7 @@
      /*====flex main slider====*/
      /*==========================*/
     $('.slider-main,.testimonials').flexslider({
-      slideshowSpeed: 3000,
+      slideshowSpeed: 10000,
       directionNav: false,
       animation: "fade"
     });
