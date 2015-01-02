@@ -44,17 +44,21 @@
                     <div class="container text-center">
                         <ul class="slides">
 
-                            {% for meeting in site.meetings limit:1 %}
+                            {% for meeting in site.meetings %}
+                            {% if forloop.last %}
                             <li>
                                 <h1 class="slider-heading">{{meeting.title}}</h1>
                                 <p class="slider-desc">{{ meeting.date | date: "%B %-d, %Y" }} | {{ meeting.speaker }}</p>
                                 <a href="{{ meeting.eventbrite }}" class="btn btn-lg btn-white">Register for meeting</a>
                             </li>
+                            {% endif %}
                             {% endfor %}
+
                             <li>
                                 <h1 class="slider-heading">Subscribe to our mailing list</h1>
                                 <a href="/emailSignup/" class="btn btn-lg btn-white">Signup</a>
                             </li>
+                            
                             <!-- <li>
                                 <h1 class="slider-heading">Clean Modern Multipurpose</h1>
                                 <p class="slider-desc">Miron is a multipurpose theme that you can use for your business Portfolio or blog.</p>

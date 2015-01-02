@@ -2,7 +2,8 @@
 layout: justbootstrap
 ---
 
-{% for meeting in site.meetings limit:1 %}
+{% for meeting in site.meetings %}
+{% if forloop.last %}
 
 <p><strong>{{ meeting.title }}</strong></p>
 
@@ -18,4 +19,5 @@ layout: justbootstrap
 
 {% include schedule.html %}
 
+{% endif %}
 {% endfor %}

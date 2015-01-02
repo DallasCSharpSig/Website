@@ -4,7 +4,8 @@ layout: justbootstrap
 
 <div id="email" class="container">
 
-{% for meeting in site.meetings limit:1 %}
+{% for meeting in site.meetings %}
+{% if forloop.last %}
 
 <p>Join us Thursday, {{ meeting.date | date: "%B %-d" }}, to talk with {{ meeting.speaker}} at the Dallas C# Sig!</p>
 
@@ -26,6 +27,7 @@ layout: justbootstrap
 
 <p><a href="{{ meeting.eventbrite }}">Register for the meeting here.</a></p>
 
+{% endif %}
 {% endfor %}
 
 <p>You can see some of the older presentations at <a href="http://usergroup.tv/?cat=73">usergroup.tv.</a> Thanks to Shawn Weisfeld for recording these.</p>

@@ -1,8 +1,9 @@
 <section id="current-meeting">
     <div class="container">
         
-        {% for meeting in site.meetings limit:1 %}
-        
+        {% for meeting in site.meetings %}
+        {% if forloop.last %}
+
         <div class="row col-md-12">
             <div class="blog-items margin-btm40">
                 <h1 class="text-center">{{meeting.date | date: "%B" }} Meeting</h1>
@@ -40,6 +41,7 @@
             </div>
         </div>
 
+        {% endif %}
         {% endfor %}
         
     </div>
