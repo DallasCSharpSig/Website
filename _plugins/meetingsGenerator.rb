@@ -8,19 +8,16 @@ module Jekyll
       @name = name
 
       self.process(@name)
+      
       self.read_yaml(File.join(base, '_layouts'), 'meetings.html')
 
       meetings = site.collections['meetings'].docs.map { |doc| doc.data }
 
-      groups = meetings.group_by { 
-      	|meeting| Date.strptime(meeting['date']).year 
-      }
+      groups = meetings.group_by { |meeting| Date.strptime(meeting['date']).year }
 
-      groups = groups.sort_by{ |x| x}.reverse
+      groups = groups.sort_by{ |x| x }.reverse
 
-      groups.each do |group|
-      		group[1] = group[1].sort_by{ |x| x['date']}.reverse
-      	end
+      groups.each { |group| group[1] = group[1].sort_by{ |x| x['date']}.reverse }
 
       self.data['groupedMeetings'] = groups
 
@@ -35,7 +32,7 @@ module Jekyll
           site.pages <<  MeetingsPage.new(site, site.source, 'meetings', 'index.html')
       end
     end
-    
+
   end
 
 end
