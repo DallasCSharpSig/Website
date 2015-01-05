@@ -1,27 +1,20 @@
 ---
-
+layout: default
 ---
 
-<html>
-<head>
-	<title></title>
-</head>
-<body>
+<div class="container first-page-content">
+{% for group in page.groupedMeetings %}
+	
+	<h1>{{ group[0] }}</h1>
+	{% for meeting in group[1] %}
 
-	{% for group in page.groupedMeetings %}
-		
-		<h1>{{ group[0] }}</h1>
-		{% for meeting in group[1] %}
+		<h2>{{ meeting.title }}</h2>
+		<h3>{{ meeting.date | date: "%B %-d, %Y" }}</h2>
+		<h3>{{ meeting.speaker }}</h2>
+		<p>{{ meeting.abstract }}</p>
 
-			<h2>{{ meeting.title }}</h2>
-			<h3>{{ meeting.date | date: "%B %-d, %Y" }}</h2>
-			<h3>{{ meeting.speaker }}</h2>
-			<p>{{ meeting.abstract }}</p>
-
-
-		{% endfor %}
 
 	{% endfor %}
 
-</body>
-</html>
+{% endfor %}
+</div>
