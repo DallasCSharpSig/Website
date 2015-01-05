@@ -10,16 +10,19 @@ module Jekyll
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'category_index.html')
 
-      meetings = site.collections['meetings'].docs.map {
-      	|doc| doc.data
-      }
+      meetings = site.collections['meetings'].docs.map { |doc| doc.data }
 
-      groupedMeetings = meetings.group_by { 
+      groups = meetings.group_by { 
       	|meeting| Date.strptime(meeting['date']).year 
       }
 
-      self.data['groupedMeetings'] = groupedMeetings
-      puts self.data
+      groups = groups.sort_by{ |x| x}.reverse
+
+      groups.each do |group|
+      		group[1] = group[1].sort_by{ |x| x['date']}.reverse
+      	end
+
+      self.data['groupedMeetings'] = groups
 
     end
   end
