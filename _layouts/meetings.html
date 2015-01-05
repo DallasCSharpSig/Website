@@ -14,8 +14,10 @@
 		{% for meeting in group[1] %}
 
 			<h2>{{ meeting.title }}</h2>
-			<h3>{{ meeting.date }}</h2>
+			<h3>{{ meeting.date | date: "%B %-d, %Y" }}</h2>
 			<h3>{{ meeting.speaker }}</h2>
+			<p>{{ meeting.abstract }}</p>
+
 
 		{% endfor %}
 
