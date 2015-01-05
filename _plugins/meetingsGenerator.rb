@@ -1,14 +1,14 @@
 module Jekyll
 
-  class CategoryPage < Page
-    def initialize(site, base, dir, category)
+  class MeetingsPage < Page
+    def initialize(site, base, dir, name)
       @site = site
       @base = base
       @dir = dir
-      @name = 'index.html'
+      @name = name
 
       self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'category_index.html')
+      self.read_yaml(File.join(base, '_layouts'), 'meetings.html')
 
       meetings = site.collections['meetings'].docs.map { |doc| doc.data }
 
@@ -27,17 +27,15 @@ module Jekyll
     end
   end
 
-  class CategoryPageGenerator < Generator
+  class MeetingsGenerator < Generator
     safe true
 
     def generate(site)
-      if site.layouts.key? 'category_index'
-        dir = site.config['category_dir'] || 'categories'
-        site.categories.each_key do |category|
-          site.pages << CategoryPage.new(site, site.source, File.join(dir, category), category)
-        end
+      if site.layouts.key? 'meetings'
+          site.pages <<  MeetingsPage.new(site, site.source, 'meetings', 'index.html')
       end
     end
+    
   end
 
 end
