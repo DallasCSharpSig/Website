@@ -1,0 +1,23 @@
+---
+
+---
+
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+	{% for group in page.groupedMeetings %}
+		
+		<h1>{{ group[0] }}</h1>
+		{% for meeting in group[1] %}
+
+			<h2>{{ meeting.title }}</h2>
+
+		{% endfor %}
+		
+	{% endfor %}
+
+</body>
+</html>
