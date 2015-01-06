@@ -1,5 +1,31 @@
 ---
 layout: default
-title: About
+title: 'About Us'
+stylesheets: 
+  - ''
+scripts:
+  - '<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=true"></script>'
+  - '<script type="text/javascript" src="/js/about.js"></script>'
 ---
 
+<div class="about container">
+  <section>
+
+    <p>
+      The Dallas C# SIG meets monthly on the 1st Thursday from 6:30pm to 8:30pm at the 
+      <a href="http://www.improvingenterprises.com">Improving Enterprises, Inc</a>, 
+      Dallas office. Subscribe to the 
+      <a href="/emailsignup">newsletter</a> to receive notification about monthly meetings.
+    </p>
+
+    <h4>Schedule</h4>
+    {% include schedule.html %}
+
+    <a href="http://www.improvingenterprises.com">Improving Enterprises,Inc.</a> <br>
+    One Hanover Park, 16633 N. Dallas Parkway, Suite 100 <br>
+    Addison, TX 75001
+
+  </section>
+</div>
+
+<div id="map-canvas" class="carousel"></div>

@@ -21,6 +21,15 @@
 	padding: 0;
 }
 
+.meeting-list h1{
+	border-bottom: solid 1px #ddd;
+	padding-bottom: 20px;
+}
+
+.blog-items{
+	border: none;
+}
+
 .current-meeting{
 	margin-bottom: 40px;
 }
@@ -53,4 +62,8 @@
 
 .slider-heading a {
 	color: #fff;
+}
+
+.about{
+	padding-bottom: 20px;
 }

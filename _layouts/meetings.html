@@ -3,15 +3,17 @@ layout: default
 title: 'Meetings'
 ---
 
-<div class="row margin-btm40">
-{% for group in page.groupedMeetings %}
-	
-	<h1>{{ group[0] }}</h1>
-	{% for page in group[1] %}
+<div class="container meeting-list">
+	<div class="margin-btm40">
+	{% for group in page.groupedMeetings %}
+		
+		<h1>{{ group[0] }}</h1>
+		{% for page in group[1] %}
 
-		{% include meetingSummary.html %}
+			{% include meetingSummary.html %}
+
+		{% endfor %}
 
 	{% endfor %}
-
-{% endfor %}
+	</div>
 </div>
