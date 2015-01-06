@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: meeting
 
 date: 2015-1-8
 

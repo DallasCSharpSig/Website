@@ -3,38 +3,39 @@
 	color: #fff;
 }
 
-.first-page-content{
-	margin-top: 110px;
+#page-tree{
+	margin-bottom: 20px;
 }
 
-#current-meeting{
+#hightlight-sec-2{
+	padding: 92px;
+	margin-bottom: 20px;
+}
+
+.meeting i{
+	font-size: 24px;
+	padding: 5px 10px;
+}
+
+.meeting .list-inline>li{
+	padding: 0;
+}
+
+.current-meeting{
 	margin-bottom: 40px;
 }
 
-#current-meeting h1{
+.current-meeting h1{
 	margin: 30px;
 	font-size: 36px;
 	font-weight: 600;
 }
 
-#current-meeting h2 a{
-	color: #333
-}
-
-#current-meeting .blog-items {
+.current-meeting .blog-items {
 	border: none;
 }
 
-#current-meeting .blog-items .list-inline>li{
-	padding: 0;
-}
-
-#current-meeting .blog-items i{
-	font-size: 24px;
-	padding: 5px 10px;
-}
-
-#current-meeting a.btn{
+.current-meeting a.btn{
 	width: 100%;
 	padding: 28px 56px;
 	font-weight: 600;
@@ -42,6 +43,10 @@
 	margin-top: 20px;
 }
 
-#email{
-	margin-top: 20px;
+.mail-chimp{
+	margin: 20px;
+}
+
+.email-signup{
+	
 }

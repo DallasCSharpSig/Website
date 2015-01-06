@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 <!--main flex slider start-->
@@ -9,12 +9,12 @@ layout: default
             <div class="container text-center">
                 <ul class="slides">
 
-                    {% for meeting in site.meetings %}
+                    {% for page in site.meetings %}
                     {% if forloop.last %}
                     <li>
-                        <h1 class="slider-heading">{{meeting.title}}</h1>
-                        <p class="slider-desc">{{ meeting.date | date: "%B %-d, %Y" }} | {{ meeting.speaker }}</p>
-                        <a href="{{ meeting.eventbrite }}" class="btn btn-lg btn-white">Register for meeting</a>
+                        <h1 class="slider-heading">{{page.title}}</h1>
+                        <p class="slider-desc">{{ page.date | date: "%B %-d, %Y" }} | {{ page.speaker }}</p>
+                        <a href="{{ page.eventbrite }}" class="btn btn-lg btn-white">Register for meeting</a>
                     </li>
                     {% endif %}
                     {% endfor %}
@@ -41,5 +41,7 @@ layout: default
 </section>
 <!--main flex slider end-->
 
-{% include currentMeeting.html %}
+<div class="container">
+    {% include currentMeeting.html %}
+</div>
 

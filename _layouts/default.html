@@ -8,7 +8,19 @@
 
         {% include navbar.html %}
 
-        {{ content}}
+        <section id="page-tree">
+		    <div class="container">
+		        <div class="row">
+		            <div class="col-md-12	 col-sm-12">
+		                <h1>{{ page.title }}</h1>
+		            </div>
+		        </div><!--row-->
+		    </div><!--container-->
+		</section><!--page-tree-->
+
+		<div class="container">
+			{{ content}}
+		</div>
 
         {% include footer.html %}
 
