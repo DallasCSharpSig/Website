@@ -12,7 +12,7 @@ layout: main
                     {% for page in site.meetings %}
                     {% if forloop.last %}
                     <li>
-                        <h1 class="slider-heading">{{page.title}}</h1>
+                        <h1 class="slider-heading"><a class="hover-color" href="{{ page.url }}">{{page.title}}</a></h1>
                         <p class="slider-desc">{{ page.date | date: "%B %-d, %Y" }} | {{ page.speaker }}</p>
                         <a href="{{ page.eventbrite }}" class="btn btn-lg btn-white">Register for meeting</a>
                     </li>
