@@ -5,10 +5,10 @@
 	var marker;
 
 	function initialize() {
-		myLatlng = new google.maps.LatLng(37.397802,-121.890288);
+		myLatlng = new google.maps.LatLng(32.9770235,-96.8268895);
 
 		var mapOptions = {
-		  zoom: 13,
+		  zoom: 16,
 		  center: myLatlng,
 		  mapTypeId: google.maps.MapTypeId.ROADMAP,
 		  scrollwheel: false,
@@ -16,7 +16,7 @@
 		};
 		map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
 
-		var contentString = '<p style="line-height: 20px;"><strong>Banzhow Template</strong></p><p>123 My Street, Banzhow City, CA 4567</p>';
+		var contentString = '<p style="line-height: 20px;"><strong>Improving Enterprises, Inc.</strong></p><p>16633 Dallas Parkway #100 Addison, TX 75001</p>';
 
 		var infowindow = new google.maps.InfoWindow({
 		  content: contentString

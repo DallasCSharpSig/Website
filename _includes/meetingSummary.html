@@ -5,16 +5,23 @@
             <i class="ion-calendar"></i>
             {{ page.date | date: "%B %-d, %Y" }}
         </li>
+
+        {% if page.speaker %}        
         <li>|</li>
         <li>
             <i class="ion-ios7-person"></i>{{ page.speaker }}
         </li>
+
+        {%  endif %}
+
+        {% if page.twitter %}
         <li>|</li>
         <li>
             <a href="https://twitter.com/{{ page.twitter }}" class="hover-color">
                 <i class="ion-social-twitter-outline"></i>
             </a>
         </li>
+        {%  endif %}
     </ul>
 
     <p>
