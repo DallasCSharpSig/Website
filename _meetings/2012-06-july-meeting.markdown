@@ -9,7 +9,7 @@ github:
 abstract:
 bio:
 redirect_from:
-  - /2012/07/
+  - /2012/06/
 ---
 
 <p>Register for the meeting&nbsp;<a href="http://www.eventbrite.com/event/3796220598">here</a>.</p>

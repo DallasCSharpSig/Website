@@ -6,10 +6,12 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: The .NET Micro Framework works best for devices that are low-cost, resource-constrained, single- or limited-function, and often connected. In this talk you will learn how to control hardware inputs and outputs using the .NET Micro framework and the FEZ Panda microcontroller. Possible inputs/outputs include sensors, RS-232, USB, microphones, other controllers, wireless transmissions, lights, motors, speakers and almost any electronic device you can think of. A brief introduction to electronics/circuits will be included at the beginning of the talk so no prior experience is necessary but being familiar with electronics and .NET programming will help.
+
 bio:
 redirect_from:
-  - /2011/01/
+  - /2010/12/
 ---
 
 <p>Abstract:</p>

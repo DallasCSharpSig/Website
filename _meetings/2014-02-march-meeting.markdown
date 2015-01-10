@@ -9,7 +9,7 @@ github:
 abstract:
 bio:
 redirect_from:
-  - /2014/03/
+  - /2014/02/
 ---
 
 <p>Register for the meeting <a href="http://signancy.eventbrite.com">here</a>.</p>

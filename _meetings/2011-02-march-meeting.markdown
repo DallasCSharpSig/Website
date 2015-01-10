@@ -9,7 +9,7 @@ github:
 abstract:
 bio:
 redirect_from:
-  - /2011/03/
+  - /2011/02/
 ---
 
 <p><strong>Abstract</strong>:</p>

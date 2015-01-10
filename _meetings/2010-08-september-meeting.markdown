@@ -6,10 +6,12 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: Most developers face the tasks of managing and updating database schemas as part of their daily jobs.&nbsp; Even in organizations with a dedicated team of DBAs, the developers have to manage changes to table structures, views, and stored procedures to match the logic of their systems under development.&nbsp; While the Microsoft Visual Studio Team Edition for Database Professionals (aka DBPro) was originally built for DBAs to use to manage sophisticated database schemas, Microsoft has made it easy for developers to embrace the DBPro tools as an extension to the core Developer Edition tools.&nbsp; And with Visual Studio 2010 you don&#8217;t even have to install DBPro separately.&nbsp; In this talk, which is applicable to developers and DBAs alike, learn how to use the power Visual Studio database projects to get your schema definitions in source control, manage changes to databases across multiple environments, generate test data, write executable database test cases, and more.&nbsp; No matter which version of Visual Studio you use, you&#8217;ll find tools that will make your life with data much easier to manage.
+
 bio:
 redirect_from:
-  - /2010/09/
+  - /2010/08/
 ---
 
 <p><strong>Abstract<br />

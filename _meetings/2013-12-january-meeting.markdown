@@ -9,7 +9,7 @@ github:
 abstract:
 bio:
 redirect_from:
-  - /2014/01/
+  - /2013/12/
 ---
 
 <p>Register for the meeting&nbsp;<a href="http://sigjan.eventbrite.com">here</a>.<br />

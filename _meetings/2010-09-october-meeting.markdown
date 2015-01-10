@@ -6,10 +6,12 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: So, you&#8217;re ready to ship that Windows application. &nbsp;Now what? &nbsp;How does the product get from the build machine onto the customer&#8217;s computer? &nbsp;Where does SETUP.EXE come from? &nbsp;What&#8217;s in those MSI files, anyway? &nbsp;Join us for a primer on deployment, one of the most overlooked, yet most arcane problems in software development. &nbsp;We will cover the core topics of Windows Installer, the standard deployment technology on Windows. &nbsp;Then we will explore WIX, Microsoft&#8217;s open-source toolset for authoring Windows Installer packages.
+
 bio:
 redirect_from:
-  - /2010/10/
+  - /2010/09/
 ---
 
 <div id="_mcePaste">Abstract:</div>

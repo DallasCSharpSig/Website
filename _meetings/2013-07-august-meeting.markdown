@@ -9,7 +9,7 @@ github:
 abstract:
 bio:
 redirect_from:
-  - /2013/08/
+  - /2013/07/
 ---
 
 <p>Register for the meeting <a href="https://sigaug.eventbrite.com/">here</a>.</p>

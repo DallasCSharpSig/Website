@@ -9,7 +9,7 @@ github:
 abstract:
 bio:
 redirect_from:
-  - /2014/04/
+  - /2014/03/
 ---
 
 <p>Register for the meeting&nbsp;<a href="http://projectsienna.eventbrite.com">here</a>.</p>

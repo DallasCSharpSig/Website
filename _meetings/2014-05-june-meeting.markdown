@@ -9,7 +9,7 @@ github:
 abstract:
 bio:
 redirect_from:
-  - /2014/06/
+  - /2014/05/
 ---
 
 <p>Register for the meeting&nbsp;<a href="https://www.eventbrite.com/e/dallas-c-sig-june-meeting-bacon-and-the-http-request-tickets-11696989009">here</a>.</p>

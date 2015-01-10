@@ -9,7 +9,7 @@ github:
 abstract:
 bio:
 redirect_from:
-  - /2014/10/
+  - /2014/09/
 ---
 
 <p>Register for the meeting&nbsp;<a href="https://www.eventbrite.com/e/dallas-c-sig-october-meeting-rest-and-web-api-tickets-13312119909">here</a>.</p>

@@ -9,7 +9,7 @@ github:
 abstract:
 bio:
 redirect_from:
-  - /2014/11/
+  - /2014/10/
 ---
 
 <p>As we announced in October&#8217;s meeting, we will not be meeting in November because Improving Enterprises is taking the entire company to Las Vegas for our company retreat.</p>

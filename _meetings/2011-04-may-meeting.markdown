@@ -9,7 +9,7 @@ github:
 abstract:
 bio:
 redirect_from:
-  - /2011/05/
+  - /2011/04/
 ---
 
 <div id="_mcePaste">Update: The resources from Todd&#8217;s talk can be downloaded below</div>

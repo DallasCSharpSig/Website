@@ -9,7 +9,7 @@ github:
 abstract:
 bio:
 redirect_from:
-  - /2011/06/
+  - /2011/05/
 ---
 
 <p><!-- p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Helvetica} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Arial} p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Helvetica; min-height: 16.0px} li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Arial} span.s1 {color: #e96a1b} span.s2 {text-decoration: underline} span.s3 {font: 10.0px 'Lucida Grande'} ul.ul1 {list-style-type: disc} --><strong>Abstract</strong></p>

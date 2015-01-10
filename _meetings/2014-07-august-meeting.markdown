@@ -9,7 +9,7 @@ github:
 abstract:
 bio:
 redirect_from:
-  - /2014/08/
+  - /2014/07/
 ---
 
 <p>Register for the meeting&nbsp;<a href="https://www.eventbrite.com/e/dallas-c-sig-august-meeting-cryptography-ghost-stories-tickets-12372531575">here</a>.</p>

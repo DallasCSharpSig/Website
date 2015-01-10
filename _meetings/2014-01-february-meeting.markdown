@@ -9,7 +9,7 @@ github:
 abstract:
 bio:
 redirect_from:
-  - /2014/02/
+  - /2014/01/
 ---
 
 <p><span style="color: #993300;">The meeting tonight has been cancelled due to bad weather.</span></p>

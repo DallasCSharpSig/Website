@@ -9,7 +9,7 @@ github:
 abstract:
 bio:
 redirect_from:
-  - /2011/09/
+  - /2011/08/
 ---
 
 <div id="_mcePaste"><strong><span style="text-decoration: underline;">Abstract</span></strong></div>

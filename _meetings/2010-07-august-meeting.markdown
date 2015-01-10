@@ -6,10 +6,12 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: On August 5th, Leblanc Meneses will go over the fundamentals of MSBuild.&nbsp; The talk will cover semantics and syntax of an MSBuild project and developing and debugging custom tasks.
+
 bio:
 redirect_from:
-  - /2010/08/
+  - /2010/07/
 ---
 
 <p>On August 5th, Leblanc Meneses will go over the fundamentals of MSBuild.&nbsp; The talk will cover semantics and syntax of an MSBuild project and developing and debugging custom tasks.</p>

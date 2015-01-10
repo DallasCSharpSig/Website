@@ -6,10 +6,12 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: On July 1, Chander Dhall will go over the fundamental data abstractions in Azure table storage.&nbsp;The talk will cover the basic architecture, as well as data partitioning guidelines. It will also include some hands on coding specific to blobs, tables, and queues with scalability and performance guidelines. This talk is a precursor to Chander&#8217;s talk on development best practices and using&nbsp;<a href="http://Asp.Net" target="_blank">Asp.Net</a> MVC2 with Azure at Dallas Tech Fest.
+
 bio:
 redirect_from:
-  - /2010/07/
+  - /2010/06/
 ---
 
 <p>Update: Code can be downloaded <a href="http://weblogs.asp.net/chanderdhall/archive/2010/07/02/azure-table-storage-c-sig-dallas-july-1st-2010.aspx" target="_blank">here</a>.</p>

@@ -9,7 +9,7 @@ github:
 abstract:
 bio:
 redirect_from:
-  - /2013/10/
+  - /2013/09/
 ---
 
 <p>Register for the meeting <a href="https://sigoct.eventbrite.com/">here</a>.<br />
