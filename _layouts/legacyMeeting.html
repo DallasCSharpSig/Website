@@ -1,0 +1,14 @@
+---
+layout: 'highlight'
+---
+
+<h2><a href="{{ page.url | prepend: site.baseurl }}" class="hover-color">{{ page.title }}</a></h2>
+
+<p>
+    <i class="ion-calendar"></i>
+    {{ page.date | date: "%B %-d, %Y" }}
+</p>
+
+<div class="margin-btm40">
+	{{content}}
+</div>

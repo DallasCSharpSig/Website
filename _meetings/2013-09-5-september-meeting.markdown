@@ -1,0 +1,23 @@
+---
+layout: legacyMeeting
+date: 2013-09-5
+title: "Dallas C# SIG Oct meeting: fun(ctional) with f#"
+speaker:
+twitter:
+eventbrite:
+github:
+abstract:
+bio:
+---
+
+<p>Register for the meeting <a href="https://sigoct.eventbrite.com/">here</a>.<br />
+<strong style="text-decoration: underline;">Abstract</strong></p>
+<p>Functional programming has become a serious force in main stream development. A new breed of languages are growing in popularity in many ecosystems. F# for the CLR, Scala and Clojure on the JVM, Haskell, and even functional aspects of Javascript. Come see what all the buzz is about as we explore some of F#&#8217;s distinct features and strengths. We will start with new language constructs in F#, cover Type Providers, DSLs in F#, and demo canopy, a UI automation and testing framework written in F#.</p>
+<p><strong><span style="text-decoration: underline;">Bio</span></strong></p>
+<p>Chris is a developer with a passion for F#. His journey through the software world has had him building frontends, backends, and automation suites. In his free time he develops an open source testing framework called canopy.</p>
+<p><strong><span style="text-decoration: underline;">Schedule</span></strong></p>
+<p>Date: OCt 03, 2013<br />
+6:00 &#8211; 6:30 p.m : Networking/Pizza<br />
+6:30 &#8211; 8:30 p.m : Main Presentation<br />
+8:30 p.m &nbsp; &nbsp; &nbsp; &nbsp; : Door Prizes</p>
+

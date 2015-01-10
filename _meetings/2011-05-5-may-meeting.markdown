@@ -1,0 +1,29 @@
+---
+layout: legacyMeeting
+date: 2011-05-5
+title: "Dallas C# SIG June meeting: EntityFramework 360 – CodeOnly 4.1"
+speaker:
+twitter:
+eventbrite:
+github:
+abstract:
+bio:
+---
+
+<p><!-- p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Helvetica} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Arial} p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Helvetica; min-height: 16.0px} li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Arial} span.s1 {color: #e96a1b} span.s2 {text-decoration: underline} span.s3 {font: 10.0px 'Lucida Grande'} ul.ul1 {list-style-type: disc} --><strong>Abstract</strong></p>
+<p>While most enterprise applications are object-oriented, the data upon which they depend is not. Unfortunately, binding these two platforms together can result in significant amounts of lost productivity and a less than optimal solution. Come see how you can resolve this recurring theme with the newest release of the Microsoft <a href="http://ado.net/">ADO.NET</a> Entity Framework. &nbsp;In this session, we&#8217;ll</p>
+<ul>
+<li>Explore the Entity Framework 4.1, its components and see how it all works</li>
+<li>Define an object model and implement persistence from POCO classes, including customizing persistence mapping via the fluent API</li>
+<li>Walk through a variety of code examples that show how to interact with the model</li>
+<li>Show how the Entity Framework automatically tracks data changes and generates updates</li>
+</ul>
+<p>You&#8217;ll walk-away with a clear understanding of how the new &#8220;code only&#8221; extensions allows the developer to implement a much more code-centric approach to store persistence</p>
+<p><strong>Bio</strong></p>
+<p>Rob Vettor is a C# MVP, INETA Regional Speaker and senior .NET Technologist for SOLARC, a leading, global provider of commodity and trading system software. Rob has built systems for a number of corporations, including Avanade, Raytheon, American Express and Jack Henry and Associates. Rob lives in Dallas, TX, with his wife, twin sons and three dogs, and is the founder of Hands-On-Coding (<a href="http://www.hands-on-coding.net/">http://www.hands-on-coding.net/</a>), a user group in which attendees bring their laptops and learn .NET coding by doing.&nbsp; You can contact Rob at <a href="mailto:robvettor@hotmail.com">robvettor@hotmail.com</a>, and check out Rob&#8217;s blog at<a href="http://www.robvettor.com/">www.robvettor.com</a> .</p>
+<p><strong>Schedule</strong><br />
+6:00 &#8211; 6:30 p.m : Networking/Pizza<br />
+6:30 &#8211; 8:30 p.m : Main Presentation<br />
+8:30 p.m &nbsp; &nbsp; &nbsp; &nbsp; : Door Prizes</p>
+<p>Register for the meeting <a href="http://www.eventbrite.com/event/1669047165">here</a>.</p>
+

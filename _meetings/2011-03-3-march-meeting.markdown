@@ -1,0 +1,28 @@
+---
+layout: legacyMeeting
+date: 2011-03-3
+title: "Dallas C# SIG April meeting: Practical Behavior Driven Development and ASP.NET MVC"
+speaker:
+twitter:
+eventbrite:
+github:
+abstract:
+bio:
+---
+
+<div id="_mcePaste">Abstract:</div>
+<div id="_mcePaste">Amir will show you how you can leverage Behavior Driven Development concepts to drive development of an ASP.NET MVC application. &nbsp;Continuous testing, test driven development, and &#8220;red, green, re-factor&#8221; are all important techniques with practical applications. &nbsp;We&#8217;ll start with a crash course on BDD, and then see how we can bend NUnit to our whim to develop an MVC application using a behavior driven approach.</div>
+<div id="_mcePaste">Bio:</div>
+<div id="_mcePaste">Amir is a Principal Consultant with Improving Enterprises. He is an active member of the .Net Community and has done presentations on WCF, ASP.NET MVC, HTML5, REST Architectures, and Silverlight. Amir has an unwavering passion for software and is always striving to better the industry through community involvement, mentoring, and blogging. His blog is at http://www.amirrajan.net.</div>
+<div id="_mcePaste">Please note that the address for Improving has now changed to:</div>
+<div id="_mcePaste">Improving Enterprises</div>
+<div id="_mcePaste">One Hanover Park</div>
+<div id="_mcePaste">16633 Dallas Parkway, Suite 100</div>
+<div id="_mcePaste">Addison, TX &nbsp;75001<p></p>
+<p>6:00 &#8211; 6:30 p.m : Networking/Pizza<br />
+6:30 &#8211; 8:30 p.m : Main Presentation<br />
+8:30 p.m &nbsp; &nbsp; &nbsp; &nbsp; : Door Prizes</p>
+</div>
+<div>
+Register for the meeting <a href="http://www.eventbrite.com/event/1474402979" target="_blank">here</a>.</div>
+
