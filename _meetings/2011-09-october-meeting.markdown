@@ -6,7 +6,10 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: "SketchFlow (included with Expression Blend) is a great tool to build rapid click-through prototypes of your ideas before they bloom into powerful applications. Explore different variations of the ideas without investing too much of your time. Get instant feedback from your clients who can play with your high-fidelity prototypes using the free Sketchflow Player. And best of all, you don&#8217;t have to throw away your work. Grab the reusable assets and use them in your production application.<br />
+In this session, we&#8217;ll take an idea and check out a live demonstration on how quickly we can build a prototype out of it. This will be fun."
+
 bio:
 redirect_from:
   - /2011/09/

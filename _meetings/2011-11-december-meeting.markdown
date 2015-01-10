@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: "In this talk we dive into the code first approach using Entity Framework and specifically how to develop test first and architecturally sound EF code. This talk will morph and twist, so bring your questions and plenty of geek points."
+
 bio:
 redirect_from:
   - /2011/11/

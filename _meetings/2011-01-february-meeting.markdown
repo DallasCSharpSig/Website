@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: "Everybody wants a mobile presence but who has the time (or the money) to learn an ever-expanding set of development platforms?&nbsp; Join us as Casey Watson provides a detailed introduction to Konnector, a mobile development framework that allows you to rapidly build native, cross-platform mobile applications while leveraging your existing web development assets.&nbsp; We&#8217;ll start by taking an in-depth look at the current state of mobile development options then move on to discussing the &#8220;how&#8221; and &#8220;why&#8221; of Konnector.&nbsp; Finally, we&#8217;ll dive right in and build a Konnector-powered mobile project from the ground up."
+
 bio:
 redirect_from:
   - /2011/01/

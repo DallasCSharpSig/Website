@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: "Client-side MVC frameworks like Spine.js, Backbone.js, Knockout.js and Ember.js are there to help you write richer client-side web experiences and give you solid patterns to follow. Come learn why they can help, how these frameworks work and what some of the existing options are."
+
 bio:
 redirect_from:
   - /2011/12/

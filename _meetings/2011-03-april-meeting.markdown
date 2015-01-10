@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: "Amir will show you how you can leverage Behavior Driven Development concepts to drive development of an ASP.NET MVC application. &nbsp;Continuous testing, test driven development, and &#8220;red, green, re-factor&#8221; are all important techniques with practical applications. &nbsp;We&#8217;ll start with a crash course on BDD, and then see how we can bend NUnit to our whim to develop an MVC application using a behavior driven approach."
+
 bio:
 redirect_from:
   - /2011/03/

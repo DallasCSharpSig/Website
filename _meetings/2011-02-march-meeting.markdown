@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: Have you been wanting to create a website using&nbsp;<a href="http://asp.net/" target="_blank">ASP.NET</a> MVC but weren&#8217;t sure how to get started? In this discussion we will go through the process of making a site using&nbsp;<a href="http://asp.net/" target="_blank">ASP.NET</a> MVC. We will talk about the principles behind the framework, setting your web code up for testability and making simple ajax calls. We will also be using Entity Framework 4 Code First CTP 5 and Nuget, so if you haven&#8217;t yet seen how these work, you might learn something about them as well.
+
 bio:
 redirect_from:
   - /2011/02/

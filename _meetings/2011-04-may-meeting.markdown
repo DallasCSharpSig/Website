@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: "All developers understand the theoretical value of unit testing, but with data driven applications, figuring out how to create tests can be hard. In this session, you will learn how to design and build a data layer that can be tested. We will introduce data layer architecture practices and methodologies that make testing possible, and cover the basics of unit test mocking. You will also be guided through various types of testing, including unit, integration, and functional testing. Leave this session with the basics needed to start creating tests for application data layers, including those powered by LinqToSQL and Entity Framework."
+
 bio:
 redirect_from:
   - /2011/04/

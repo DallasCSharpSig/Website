@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: "It&#8217;s one of those headaches that you knew you had but, until now, never had a name for. It&#8217;s package management. If you&#8217;re a .NET developer and you&#8217;d like to take control of how you and your organization maintains, shares and uses application libraries, you owe it to yourself to take a look at NuGet, Microsoft&#8217;s answer to Ruby Gems. NuGet goes beyond simply adding references to your project and allows for fully automated configuration and setup of third-party libraries directly from within Visual Studio using either the GUI or Powershell. NuGet allows you to not only search through an ever-expanding catalog of application packages but also to discover new ones that can help you and your team be more productive. In this session, we&#8217;ll start by discussing package management from a high level, move on to installing, configuring and using NuGet form within the IDE and finally we&#8217;ll discuss how you can build your very own NuGet packages and distribute them either through the official NuGet stream or your own private repository. By the end of the session, you should know all that you need to know to start taking advantage of this powerful and long overdue tool."
+
 bio:
 redirect_from:
   - /2011/06/

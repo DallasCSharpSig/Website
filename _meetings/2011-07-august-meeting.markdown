@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: "This talk takes you from the delegate syntax from .net 2.0 to actions and funcs. Then it dives deep into creating elegant code using lambdas. Gives you an understanding as to how to implement expression trees for some cool and quick framework development inside your organization. This talk does not require any understanding of delegates and goes from the beginner to intermediate level."
+
 bio:
 redirect_from:
   - /2011/07/

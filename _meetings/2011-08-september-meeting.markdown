@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: "The Microsoft Kinect peripheral is the fastest selling gadget of all time, selling more than 9,000,000 units in its first 60 days. With the release of the Windows SDK beta for Kinect, there has never been a better time to learn about this new and innovative peripheral and explore where your imagination takes you."
+
 bio:
 redirect_from:
   - /2011/08/

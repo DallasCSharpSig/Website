@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: While most enterprise applications are object-oriented, the data upon which they depend is not. Unfortunately, binding these two platforms together can result in significant amounts of lost productivity and a less than optimal solution. Come see how you can resolve this recurring theme with the newest release of the Microsoft <a href="http://ado.net/">ADO.NET</a> Entity Framework. &nbsp;In this session, we&#8217;ll
+
 bio:
 redirect_from:
   - /2011/05/
