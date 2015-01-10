@@ -1,0 +1,20 @@
+---
+layout: legacyMeeting
+date: 2011-01-2
+title: "Dallas C# SIG January meeting: Embedded devices with the .NET Micro Framework"
+speaker:
+twitter:
+eventbrite:
+github:
+abstract:
+bio:
+redirect_from:
+  - /2011/01/
+---
+
+<p>Abstract:</p>
+<p>The .NET Micro Framework works best for devices that are low-cost, resource-constrained, single- or limited-function, and often connected. In this talk you will learn how to control hardware inputs and outputs using the .NET Micro framework and the FEZ Panda microcontroller. Possible inputs/outputs include sensors, RS-232, USB, microphones, other controllers, wireless transmissions, lights, motors, speakers and almost any electronic device you can think of. A brief introduction to electronics/circuits will be included at the beginning of the talk so no prior experience is necessary but being familiar with electronics and .NET programming will help.</p>
+<p><strong>Bio</strong>:</p>
+<p>Paul has been a software developer since 1996 and is currently a consultant on various .NET and other projects. He can be reached through his website at&nbsp;<a href="http://webpaul.net/" target="_blank">http://webpaul.net</a></p>
+<p>Register for the meeting <a href="http://www.eventbrite.com/event/1107621927" target="_blank">here</a>.</p>
+

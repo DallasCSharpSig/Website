@@ -1,0 +1,28 @@
+---
+layout: legacyMeeting
+date: 2013-02-3
+title: "Dallas C# SIG Feb meeting: Best Practices of a Software Craftsmen – Skills that took years to learn to need"
+speaker:
+twitter:
+eventbrite:
+github:
+abstract:
+bio:
+redirect_from:
+  - /2013/02/
+---
+
+<p>Register for the meeting <a href="https://www.eventbrite.com/event/5147201418">here</a>.</p>
+<p><strong><span style="text-decoration: underline;">Abstract</span></strong><br />
+So you have heard of this software craftsmanship movement, and you think it is a good idea. The question that stands is how do I do that? Is it enough to call myself a craftsman and start a blog? There is a lot more to being a software craftsman than the surface betrays. In this talk we will discuss some of the problems that plague the everyday coder, and the skills/practices that will help you transcend those problems. We will walk the gambit from what TDD and BDD are trying to do all the way to how UI design is not just for guys in turtle necks anymore. The evolution of computer users requires us to evolve as well and we will talk about and use some of the tools to guide that evolution.</p>
+<p><strong><span style="text-decoration: underline;">Bio</span></strong><br />
+Devlin Liles is a Principal Consultant at Improving Enterprises and a passionate technologist. Devlin prides himself on staying a generalist, but his passion in development is data and its interactions. These passions gained him the recognition of Microsoft as an MVP of Data Platform Development awardee.<br />
+Since 2007 he has been presenting and teaching classes on software development practices and tools to audiences around the nation. He is a regular national presenter at user groups, conferences, and community events. He founded an internal Corporate Software Craftsmanship conference in Northwest Arkansas as well as led the Tyson User group for a year and a half. He has been involved in many conferences and events(Dallas TechFest, Houston TechFest, Houston CodeCamp, Houston GiveCamp, AgileDotNet) as a coordinator; planner; or just a helping hand.<br />
+Recently Devlin became published along with his good friend Tim Rayburn as authors of a book about Entity Framework and the expert approach to it.<br />
+He is an avid soccer player and hobbyist gamer.</p>
+<p><strong><span style="text-decoration: underline;">Schedule</span></strong><br />
+Date: Feb 07, 2013<br />
+6:00 &#8211; 6:30 p.m : Networking/Pizza<br />
+6:30 &#8211; 8:30 p.m : Main Presentation<br />
+8:30 p.m : Door Prizes</p>
+

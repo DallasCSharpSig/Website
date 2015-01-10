@@ -17,4 +17,7 @@ abstract: You will be SHOCKED and AMAZED at the new features in Visual Studio 20
 
 bio: Adam Hill is a Consultant for Improving Enterprises in Addison Texas. He knew he wanted to be a programmer when he was 10 years old and never looked back. He loves hacking hardware and programming anything involving visualization, computer graphics, or games. Adam is involved in many user groups in DFW and puts on the local Global Game Jam at Collin College, a crazy, worldwide race to make a game in 72 hours. On the weekends you can find him gaming, making weird food and oh yeah... doing that code thing.
 
+redirect_from:
+  - /2015/1/
+
 ---
