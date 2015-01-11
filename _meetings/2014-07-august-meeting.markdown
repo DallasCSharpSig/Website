@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2014-08-3
-title: "Dallas C# SIG August Meeting: Cryptography Ghost Stories"
+title: "Cryptography Ghost Stories"
 speaker:
 twitter:
 eventbrite:

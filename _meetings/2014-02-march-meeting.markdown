@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2014-03-6
-title: "Dallas C# SIG Mar meeting: Building lightweight web applications with Nancy"
+title: "Building lightweight web applications with Nancy"
 speaker:
 twitter:
 eventbrite:

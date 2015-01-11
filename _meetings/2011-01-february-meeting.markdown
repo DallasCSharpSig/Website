@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2011-02-6
-title: "Dallas C# SIG February meeting: Rapid Mobile Development with Konnector"
+title: "Rapid Mobile Development with Konnector"
 speaker:
 twitter:
 eventbrite:

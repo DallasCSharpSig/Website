@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2012-01-1
-title: "Dallas C# SIG Jan meeting: What Client-Side MV* Frameworks Can Do For You"
+title: "What Client-Side MV* Frameworks Can Do For You"
 speaker:
 twitter:
 eventbrite:

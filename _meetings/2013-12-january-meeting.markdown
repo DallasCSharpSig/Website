@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2014-01-5
-title: "Dallas C# SIG Jan meeting: Black Belt MVC"
+title: "Black Belt MVC"
 speaker:
 twitter:
 eventbrite:

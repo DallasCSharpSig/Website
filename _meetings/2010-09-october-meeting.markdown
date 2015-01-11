@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2010-10-2
-title: "Dallas C# SIG October meeting: Building Setups with Windows Installer and WiX"
+title: "Building Setups with Windows Installer and WiX"
 speaker:
 twitter:
 eventbrite:

@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2012-09-2
-title: "Dallas C# SIG Sep meeting: Mobile Web Development with ASP.NET MVC 4"
+title: "Mobile Web Development with ASP.NET MVC 4"
 speaker:
 twitter:
 eventbrite:

@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2013-05-4
-title: "Dallas C# SIG May meeting: Improving Javascript Performance"
+title: "Improving Javascript Performance"
 speaker:
 twitter:
 eventbrite:

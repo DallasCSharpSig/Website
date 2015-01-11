@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2013-10-5
-title: "Dallas C# SIG Oct meeting: fun(ctional) with f#"
+title: "fun(ctional) with f#"
 speaker:
 twitter:
 eventbrite:

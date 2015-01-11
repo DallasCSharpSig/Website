@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2011-07-2
-title: "Dallas C# SIG July meeting: Simplifying Package Management with NuGet"
+title: "Simplifying Package Management with NuGet"
 speaker:
 twitter:
 eventbrite:

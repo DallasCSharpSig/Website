@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2011-08-7
-title: "Dallas C# SIG Aug meeting- From Delegates, to Lambdas and Expression Trees: Your guide to writing elegant code in C# .NET 4.0"
+title: "From Delegates, to Lambdas and Expression Trees: Your guide to writing elegant code in C# .NET 4.0"
 speaker:
 twitter:
 eventbrite:

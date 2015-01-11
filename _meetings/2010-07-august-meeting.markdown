@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2010-08-1
-title: "August meeting: MSBuild Fundamentals"
+title: "MSBuild Fundamentals"
 speaker:
 twitter:
 eventbrite:

@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2011-06-5
-title: "Dallas C# SIG June meeting: EntityFramework 360 – CodeOnly 4.1"
+title: "EntityFramework 360 – CodeOnly 4.1"
 speaker:
 twitter:
 eventbrite:

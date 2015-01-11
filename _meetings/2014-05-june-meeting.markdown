@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2014-06-1
-title: "Dallas C# Sig June Meeting: Bacon and the HTTP Request"
+title: "Bacon and the HTTP Request"
 speaker:
 twitter:
 eventbrite:

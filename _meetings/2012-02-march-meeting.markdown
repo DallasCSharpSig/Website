@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2012-03-2
-title: "Dallas C# SIG Mar meeting: Ruby to dynamic C#"
+title: "Ruby to dynamic C#"
 speaker:
 twitter:
 eventbrite:

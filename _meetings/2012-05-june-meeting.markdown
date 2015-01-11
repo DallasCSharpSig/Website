@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2012-06-3
-title: "Dallas C# SIG June Meeting: Agile Software Development – End to End"
+title: "Agile Software Development – End to End"
 speaker:
 twitter:
 eventbrite:

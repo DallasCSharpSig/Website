@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2012-07-7
-title: "Dallas C# SIG July meeting: Asyncing and Awaiting Windows 8"
+title: "Asyncing and Awaiting Windows 8"
 speaker:
 twitter:
 eventbrite:

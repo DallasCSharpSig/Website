@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2011-04-3
-title: "Dallas C# SIG April meeting: Practical Behavior Driven Development and ASP.NET MVC"
+title: "Practical Behavior Driven Development and ASP.NET MVC"
 speaker:
 twitter:
 eventbrite:

@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2011-12-3
-title: "Dallas C# SIG Dec meeting: Code First Development with Entity Framework"
+title: "Code First Development with Entity Framework"
 speaker:
 twitter:
 eventbrite:

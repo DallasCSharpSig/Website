@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2014-05-3
-title: "Dallas C# SIG May meeting: Practical BDD in .Net"
+title: "Practical BDD in .Net"
 speaker:
 twitter:
 eventbrite:

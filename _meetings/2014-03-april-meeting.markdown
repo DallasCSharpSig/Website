@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2014-04-6
-title: "Dallas C# SIG Apr meeting: Quickly Build Windows 8 Apps"
+title: "Quickly Build Windows 8 Apps"
 speaker:
 twitter:
 eventbrite:

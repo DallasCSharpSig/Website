@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2011-05-7
-title: "Dallas C# SIG May meeting: Building a Testable Data Access Layer"
+title: "Building a Testable Data Access Layer"
 speaker:
 twitter:
 eventbrite:

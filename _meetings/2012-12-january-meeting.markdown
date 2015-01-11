@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2013-01-6
-title: "Dallas C# SIG Jan meeting: Real-time Web Programming with SignalR"
+title: "Real-time Web Programming with SignalR"
 speaker:
 twitter:
 eventbrite:

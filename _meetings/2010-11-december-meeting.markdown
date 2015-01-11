@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2010-12-4
-title: "Dallas C# SIG December meeting: Managing Scrum using TFS"
+title: "Managing Scrum using TFS"
 speaker:
 twitter:
 eventbrite:

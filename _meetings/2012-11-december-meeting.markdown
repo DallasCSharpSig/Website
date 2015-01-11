@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2012-12-1
-title: "Dallas C# SIG Dec meeting: 10 Reasons your software sucks – election year edition!"
+title: "10 Reasons your software sucks – election year edition!"
 speaker:
 twitter:
 eventbrite:

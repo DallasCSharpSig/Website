@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2010-05-6
-title: "May Meeting: Introduction to BDD and MSpec"
+title: "Introduction to BDD and MSpec"
 speaker:
 twitter:
 eventbrite:

@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2012-04-1
-title: "Dallas C# SIG April meeting: UI Test Automation with Selenium"
+title: "UI Test Automation with Selenium"
 speaker:
 twitter:
 eventbrite:

@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2014-10-4
-title: "Dallas C# SIG October Meeting: REST and Web API"
+title: "REST and Web API"
 speaker:
 twitter:
 eventbrite:

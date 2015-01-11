@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2013-04-7
-title: "Dallas C# SIG Apr meeting: Creating ios applications with C#"
+title: "Creating ios applications with C#"
 speaker:
 twitter:
 eventbrite:

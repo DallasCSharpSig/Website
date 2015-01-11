@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2012-10-6
-title: "Dallas C# SIG Oct meeting: Windows 8 – Search and Share"
+title: "Windows 8 – Search and Share"
 speaker:
 twitter:
 eventbrite:

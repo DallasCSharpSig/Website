@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2012-02-5
-title: "Dallas C# SIG Feb meeting: Introduction to Git"
+title: "Introduction to Git"
 speaker:
 twitter:
 eventbrite:

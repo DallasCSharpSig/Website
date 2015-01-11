@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2010-09-5
-title: "Dallas C# SIG September meeting: Visual Studio DBPro"
+title: "Visual Studio DBPro"
 speaker:
 twitter:
 eventbrite:

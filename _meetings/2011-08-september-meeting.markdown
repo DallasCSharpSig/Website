@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2011-09-4
-title: "Dallas C# SIG Sep meeting: Connect with your Kinect"
+title: "Connect with your Kinect"
 speaker:
 twitter:
 eventbrite:

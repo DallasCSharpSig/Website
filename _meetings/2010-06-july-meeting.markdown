@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2010-07-3
-title: "July Meeting: Azure Table Storage"
+title: "Azure Table Storage"
 speaker:
 twitter:
 eventbrite:

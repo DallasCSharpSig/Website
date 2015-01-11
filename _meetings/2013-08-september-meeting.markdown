@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2013-09-1
-title: "Dallas C# SIG Sep meeting: Introduction to the CQRS Architecture Pattern"
+title: "Introduction to the CQRS Architecture Pattern"
 speaker:
 twitter:
 eventbrite:

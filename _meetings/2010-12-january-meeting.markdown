@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2011-01-2
-title: "Dallas C# SIG January meeting: Embedded devices with the .NET Micro Framework"
+title: "Embedded devices with the .NET Micro Framework"
 speaker:
 twitter:
 eventbrite:

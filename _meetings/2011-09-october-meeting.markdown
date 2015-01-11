@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2011-10-1
-title: "Dallas C# SIG Oct meeting: Envision. Explore. Evolve – Ideas to Prototypes in minutes using SketchFlow"
+title: "Envision. Explore. Evolve – Ideas to Prototypes in minutes using SketchFlow"
 speaker:
 twitter:
 eventbrite:

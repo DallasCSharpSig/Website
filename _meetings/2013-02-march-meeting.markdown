@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2013-03-7
-title: "Dallas C# SIG Mar meeting: Introduction to Microsoft Azure"
+title: "Introduction to Microsoft Azure"
 speaker:
 twitter:
 eventbrite:

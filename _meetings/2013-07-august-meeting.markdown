@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2013-08-4
-title: "Dallas C# SIG Aug meeting: Durandal – Finally a SPA Framework that Works!"
+title: "Durandal – Finally a SPA Framework that Works!"
 speaker:
 twitter:
 eventbrite:

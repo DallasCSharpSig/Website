@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2014-02-2
-title: "Dallas C# Feb Dec meeting: Building Highly Scalable Applications with Windows Azure"
+title: "Building Highly Scalable Applications with Windows Azure"
 speaker:
 twitter:
 eventbrite:

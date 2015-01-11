@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2012-05-5
-title: "Dallas C# SIG May meeting: Distributing asynchronous background tasks with Topshelf and NServiceBus"
+title: "Distributing asynchronous background tasks with Topshelf and NServiceBus"
 speaker:
 twitter:
 eventbrite:

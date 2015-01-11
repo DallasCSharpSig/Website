@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2011-03-3
-title: "Dallas C# SIG March meeting: Beginner’s Introduction to Building Websites with ASP.NET MVC"
+title: "Beginner’s Introduction to Building Websites with ASP.NET MVC"
 speaker:
 twitter:
 eventbrite:

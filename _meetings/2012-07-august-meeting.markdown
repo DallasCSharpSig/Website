@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2012-08-5
-title: "Dallas C# SIG Aug meeting: Entity Framework – The Right Way"
+title: "Entity Framework – The Right Way"
 speaker:
 twitter:
 eventbrite:

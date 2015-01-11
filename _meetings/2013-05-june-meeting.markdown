@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2013-06-2
-title: "Dallas C# SIG June meeting: Introduction to MongoDB"
+title: "Introduction to MongoDB"
 speaker:
 twitter:
 eventbrite:

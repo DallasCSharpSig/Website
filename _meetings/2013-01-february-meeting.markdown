@@ -1,7 +1,7 @@
 ---
 layout: legacyMeeting
 date: 2013-02-3
-title: "Dallas C# SIG Feb meeting: Best Practices of a Software Craftsmen – Skills that took years to learn to need"
+title: "Best Practices of a Software Craftsmen – Skills that took years to learn to need"
 speaker:
 twitter:
 eventbrite:
