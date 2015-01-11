@@ -62,3 +62,29 @@
 .about{
 	padding-bottom: 20px;
 }
+
+#page-tree.sponsor-banner{
+	padding-top: 25px;
+}
+
+#page-tree.sponsor-banner h1{
+	font-size: 36px;
+	font-weight: 600;
+}
+
+@media(max-width:767px){
+    /*for slider text*/
+    .slider-heading{
+        font-size: 2.9em;
+        margin-top: 10px;
+    }
+    .navbar-brand{
+        padding-top: 15px;
+    }
+    #page-tree{
+        padding-top: 25px !important; 
+    }
+   
+}
+
+
