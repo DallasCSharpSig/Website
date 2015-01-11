@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: In this session Leblanc will show you the ins and outs on Topshelf and NServiceBus and how to leverage these tools to help you scale. Topshelf makes window services easy to build and test. NServiceBus helps you queue, distribute, and process asynchronous background tasks. Get a glimpse at the black magic Leblanc uses on a day to day basis.
+
 bio:
 redirect_from:
   - /2012/04/

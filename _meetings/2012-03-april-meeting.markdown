@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: Say &#8220;UI Test Automation&#8221; while playing a word association game and &nbsp;the other party will inevitably say &#8220;Hard!&#8221;. And yet without the UI tests your safety net is never complete, and manual testing of UIs on Firefox, Chrome and various flavors of IE will slow down your development. As we discovered UI tests are not hard, they just require a shift in mindset.
+
 bio:
 redirect_from:
   - /2012/03/

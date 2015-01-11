@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: If you thought Silverlight was asynchronous, just a-wait till you see WinRT. Windows 8 is coming, and it has a completely new API. In addition to the familiar Win32, developers can now take advantage of WinRT to participate in the Metro experience.Just about every operation in WinRT is asynchronous. And not just web calls. Even opening a file is an async operation. Arm yourself with the latest tools in .NET 4.5 &#8212; the async and await keywords &#8212; to take full advantage of the platform.
+
 bio:
 redirect_from:
   - /2012/06/

@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: In the last few years I&#8217;ve been working with different clients to build custom software using a BDD framework called Machine.Specifications (MSpec). I have learned a few tricks to help the clients get maximum value from their test suite. In this session, I&#8217;ll share what I&#8217;ve learned, things that have worked great and some that have not. I&#8217;ll also demonstrate tools and techniques that lead to expressive and maintainable tests.
+
 bio:
 redirect_from:
   - /2014/04/

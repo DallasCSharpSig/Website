@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: MongoDB is a robust, simple, and free alternative to mainstream data stores. Craig will lead a discussion of schema design in MongoDB and how it differs from traditional approaches allowing freedom and flexibility for the developer.
+
 bio:
 redirect_from:
   - /2013/05/

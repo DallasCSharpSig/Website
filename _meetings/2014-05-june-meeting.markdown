@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: 250 Billion. &nbsp;That&#8217;s roughly the average minimum number of HTTP requests sent through the internet each day. &nbsp;We&#8217;re going to completely dissect every tiny event that happens when you navigate to a web site. &nbsp;Do you really understand exactly what&#8217;s going on under the hood with the browser, the internet, the server, IIS, and ASP.net routing? &nbsp;You most definitely will after this session. &nbsp;We&#8217;re going to talk about HTTP, DNS, TCP/IP, the OSI model, IIS, ASP.net, browsers, Fiddler, WireShark, Microsoft Network Monitor, and of course&#8230; bacon. &nbsp;If you&#8217;re a real geek like me and like to know what the heck&#8217;s going on behind the scenes, you&#8217;ll enjoy this talk!
+
 bio:
 redirect_from:
   - /2014/05/

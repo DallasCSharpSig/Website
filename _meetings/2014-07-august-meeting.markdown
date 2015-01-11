@@ -6,7 +6,10 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: "<p>Heartbleed. Target. Safari. Snapchat. NSA.</p>
+<p>If you don&#8217;t understand how cryptography works, you are in real danger of misusing it. Such mistakes can be extremely costly. It doesn&#8217;t have to be difficult. The mathematics behind modern cryptography is surprisingly simple.</p><p>It isn&#8217;t the complexity of the math that makes digital cryptography effective. On the contrary, the simplicity of the math gives us confidence that we&#8217;ve learned enough about the space to trust the results. I&#8217;ll show you the formulas, and demonstrate exactly why &#8212; and how far &#8212; you can trust them.</p>"
+
 bio:
 redirect_from:
   - /2014/07/

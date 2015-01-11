@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: An introductory talk on the CQRS (Command Query Responsibility Segregation) architecture, featuring high level architecture discussion and a quick dip into a simple example project. This is not a comprehensive discussion of the topic, but a starter to help you determine if CQRS is right for you. We will discuss Service Bus, Event Sourcing, and Task Based UI concepts during this talk
+
 bio:
 redirect_from:
   - /2013/08/

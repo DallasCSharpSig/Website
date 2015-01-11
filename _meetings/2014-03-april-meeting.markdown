@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: Quickly build Windows 8 LOB apps in minutes with Project Sienna by Microsoft. We will take some time to look at this new tool and how we might be able to utilize it to build rapid prototypes for clients and internal projects.
+
 bio:
 redirect_from:
   - /2014/03/

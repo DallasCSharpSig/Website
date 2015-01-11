@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: So you&#8217;ve mastered the basics of Model View Controller, you understand Razor, and you&#8217;re productive. Fantastic! This talk seeks to help you master the advanced scenarios that many are not aware even exist. We will discuss custom filters, controller factories, custom strongly typed templates, and so much more. By the time you&#8217;re done, you&#8217;ll be amazed at the new options MVC will provide you.
+
 bio:
 redirect_from:
   - /2013/12/

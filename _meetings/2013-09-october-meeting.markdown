@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: Functional programming has become a serious force in main stream development. A new breed of languages are growing in popularity in many ecosystems. F# for the CLR, Scala and Clojure on the JVM, Haskell, and even functional aspects of Javascript. Come see what all the buzz is about as we explore some of F#&#8217;s distinct features and strengths. We will start with new language constructs in F#, cover Type Providers, DSLs in F#, and demo canopy, a UI automation and testing framework written in F#.
+
 bio:
 redirect_from:
   - /2013/09/

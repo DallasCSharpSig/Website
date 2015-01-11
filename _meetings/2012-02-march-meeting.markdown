@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: Amir Rajan will talk about powerful dynamic constructs in Ruby and how similar features can be created using dynamic C# (no prior knowledge of Ruby is required).
+
 bio:
 redirect_from:
   - /2012/02/

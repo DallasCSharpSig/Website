@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: Are you looking to get better performance from your JavaScript? There is no need to sacrifice features and functionality! You can significantly cut a page&#8217;s load time simply by writing smarter code. In this session, we will explore the infamous DOM and discuss how JavaScript code is executed behind the curtain. Using real code examples, we will reveal how you can apply little known best practices and avoid the common pitfalls that curb performance.
+
 bio:
 redirect_from:
   - /2013/04/

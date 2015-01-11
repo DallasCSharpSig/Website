@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: So you want to develop iOS applications but how do you leverage your existing C# skills and not bother with Objective C? In this session Venkat will teach you the fundamental concepts of iOS development and show you how to leverage your existing skills with Xamarin Studio to build iPhone apps.
+
 bio:
 redirect_from:
   - /2013/03/

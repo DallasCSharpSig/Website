@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: Thinking about creating a Windows 8 app? Currently building one? Don&#8217;t forget to support Search and Share Contracts. Search and Share is supported natively in Windows 8. Search Contracts expose YOUR app to the entire Windows 8 system. Share Contracts are an easy way to make your apps social. We will walk through and implement both of these new features in Windows 8.
+
 bio:
 redirect_from:
   - /2012/09/

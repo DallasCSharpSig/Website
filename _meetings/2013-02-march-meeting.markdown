@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: Unless you&#8217;ve been developing under a rock for the last year you&#8217;ve no doubt heard the deafening buzz in the development community around &#8220;the cloud.&#8221; But what is it? How can you take full advantage of it? Where do you begin? The cloud is more than a clever marketing buzzword. Much more. In this session, Casey begins by guiding the audience on a high-level tour of general cloud-related concepts then takes a deep dive into Microsoft&#8217;s Azure platform through a series of interactive exercises. In this session you will learn the fundamental concepts of cloud computing including the range of execution models that Azure supports. You will also learn how to easily access Azure&#8217;s cloud services using the development platform and language of your choosing using Azure SDKs. The session will conclude with an audience-driven discussion covering special architectural considerations that should be taken when designing software for the cloud. By the end of the session you should know all that you need to hit the ground running creating massively scalable applications on the Azure platform. If you&#8217;re curious about the cloud and, more specifically, Microsoft&#8217;s Azure platform, then you owe it to yourself to attend this session.
+
 bio:
 redirect_from:
   - /2013/02/

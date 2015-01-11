@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: While ASP.NET is a powerful and versatile web framework, sometimes it&#8217;s just way more than you need to get the job done. Enter Nancy. Nancy is a lightweight, low-ceremony framework for building HTTP based services on .NET and Mono. And since it implements the OWIN standard, it can be hosted using Microsoft&#8217;s new Katana host, inside or outside of IIS. In this session, we&#8217;ll discuss how to get started with Nancy, from creating and bootstrapping a new application, to choosing from among the supported view engines, setting up authentication, to testing your modules end-to-end with Nancy&#8217;s Browser testing client.
+
 bio:
 redirect_from:
   - /2014/02/

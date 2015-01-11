@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: "You&#8217;ve heard of the cloud. You&#8217;ve heard of Windows Azure. You have a general understanding of what it is but you still don&#8217;t fully understand how or why you would want to use it. If this sounds like you, you owe it to yourself to attend this session and get a foundational understanding of what exactly Windows Azure is and how you can leverage it in powerful ways in your new and existing .NET applications. In this session, Casey starts by covering some basic, high-level cloud-related topics to give you a solid foundation in cloud development, then moves on to how Windows Azure implements these ideas and makes them easily consumable to .NET developers. Finally, you will have the opportunity to dive in with Casey and build applications from scratch that leverage several important Azure features such as Azure storage and service bus. Bring your questions about Windows Azure to this highly interactive session. Note: Please be sure to sign up for a Windows Azure account at http://www.windowsazure.com before the session. If you want to follow along with the interactive sessions also be sure to bring a laptop with Visual Studio 2012 or 2013 and the Windows Azure SDK 2.2 installed. You can find the Windows Azure SDK 2.2 at http://www.windowsazure.com/en-us/downloads/?sdk=net."
+
 bio:
 redirect_from:
   - /2014/01/

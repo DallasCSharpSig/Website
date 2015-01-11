@@ -6,7 +6,10 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: "If you have ever worked with Entity Framework, even if you&#8217;re doing Entity Framework Code First, you are almost certainly doing it wrong. While Entity Framework is a wonderful framework, it doesn&#8217;t automatically force you into the correct patterns of use &#8211; especially if you&#8217;re interested in isolation and testability.<br />
+This talk will review the concepts of both the Repository Pattern and the Specification Pattern and demonstrate how to implement them in Entity Framework."
+
 bio:
 redirect_from:
   - /2012/07/

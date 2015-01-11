@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: Always checking out the newest shiny thing?? Distributed version control (DVCS) is spreading like wildfire across the .NET ecosystem but is really all that beneficial or is it just hype?? Having worn a tarnish into this tool using it for the past couple of year, I&#8217;m going to discuss the benefits and battles of using it in your everyday developer life. We will be taking a look at how Git achieves it&#8217;s &#8220;magic&#8221; as well as run thru some standard practices to hopefully help you determine if Git would be right for and your environment.
+
 bio:
 redirect_from:
   - /2012/01/

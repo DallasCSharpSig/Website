@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: Web programming has always been a one-way conversation; a client calls a server and the server sends a response. But what if you could go the other direction? What if your server could call your client directly? No more inefficient polling. No more waiting for the next server poll to get your data; the server sends it as soon as it has it. Using a variety of techniques behind the scenes to smooth over the rough edges of dealing with variously capable browsers and web servers, SignalR makes real-time client-server communication ridiculously easy. Come see how this new library opens up a ton of possibilities for interactive and collaborative web applications
+
 bio:
 redirect_from:
   - /2012/12/

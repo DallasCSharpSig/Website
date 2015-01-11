@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: Mobile web browsing is on the rise and it is past time to start supporting this user behavior. In this session we&#8217;ll discuss strategies for handling different classes of devices and what ASP.NET MVC 4 helps you with. We&#8217;ll also discuss approaches like mobile first and responsive web design.
+
 bio:
 redirect_from:
   - /2012/08/

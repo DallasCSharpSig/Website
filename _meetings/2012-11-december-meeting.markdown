@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: "Fresh off of the European tour of &#8220;So you think you can code&#8221; *, we bring you the hit sensation, 10 Practices Every Developer Needs to Start Right Now. Recently, off Broadway you are not only going to learn something new, you are going to have a fun time learning it! (Seriously, Caleb recently gave this talk at the Microsoft office in New York&#8230; right off Broadway &#8211; also this was the keynote talk at the 2012 Tulsa Tech Fest) Yes friends, this is the talk that kicked off a controversy at the Dallas Tech Fest, updated and revised with an election year twist!<br />Based on years of consulting, and working with some of the largest (and smallest) software companies in the world.. these are the 10 practices that if you started doing today, would drastically improve the quality and delivery of your software!<br />Topics hit on: Object Oriented Principals, SOLID Coding, Security Concerns, Software Patterns, Automated Testing, Source Control &#8211; Branching and Merging Strategies, Continuous Integration, Agile | Scrum | XP | Lean, Team Dynamics, Continually Learning<br />* &#8211; Caleb was never in Europe, but it&#8217;s still going to be a great session!"
+
 bio:
 redirect_from:
   - /2012/11/

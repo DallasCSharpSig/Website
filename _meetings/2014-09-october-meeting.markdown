@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: In this talk that is a mixture of code and concepts, Microsoft MVP,&nbsp;Asp.NET Insider and Web API advisor Chander Dhall, discusses what to do and what NOT to do when it comes to REST best practices. At the same time he also highlights the new features in Web API.You will not only learn the new features and best practices of REST and Web API but also some secret techniques not that widely used yet. The talk plans to cover all level of attendees from beginner to advanced. And if you&#8217;ve attended any of his talks, you know how to win some great swag.
+
 bio:
 redirect_from:
   - /2014/09/

@@ -6,7 +6,9 @@ speaker:
 twitter:
 eventbrite:
 github:
-abstract:
+
+abstract: A lot of IT people are talking about &#8220;Agile&#8221; these days. &nbsp;But do they really know what it means to be agile? &nbsp;And more importantly, do you know what it could mean for your job, your career, your company? &nbsp;As software developers, agile practices are having a great impact on how we build software and promise to greatly improve the quality of our work.
+
 bio:
 redirect_from:
   - /2012/05/
