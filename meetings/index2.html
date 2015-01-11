@@ -1,0 +1,16 @@
+---
+layout: default
+title: Meetings
+---
+
+<div class="container meeting-list">
+	<div class="margin-btm40">
+			
+	{% for page in site.meetings reversed limit:1 %}
+		
+		{% include meetingSummary.html %}
+
+	{% endfor %}
+
+	</div>
+</div>

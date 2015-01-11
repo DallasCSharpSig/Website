@@ -1,0 +1,19 @@
+---
+layout: default
+title: 2010 Meetings
+---
+
+<div class="container meeting-list">
+	<div class="margin-btm40">
+		
+	{% for page in site.meetings reversed %}
+		{% capture this_year %}{{ page.date | date: "%Y" }}{% endcapture %}
+		{% if this_year == "2010" %}
+		
+			{% include meetingSummary.html %}
+
+		{% endif %}
+	{% endfor %}
+
+	</div>
+</div>
