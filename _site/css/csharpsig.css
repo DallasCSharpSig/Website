@@ -1,3 +1,12 @@
+
+.center{
+	margin: 0 auto;
+}
+
+.improving{
+		max-width: 60%;
+}
+
 .footer-logo{
 	font-size: 28px;
 	color: #fff;
@@ -52,7 +61,7 @@
 }
 
 .email-signup{
-	
+
 }
 
 .slider-heading a {
@@ -82,9 +91,7 @@
         padding-top: 15px;
     }
     #page-tree{
-        padding-top: 25px !important; 
+        padding-top: 25px !important;
     }
-   
+
 }
-
-
