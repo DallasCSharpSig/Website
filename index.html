@@ -14,7 +14,11 @@ layout: main
                     <li>
                         <h1 class="slider-heading"><a class="hover-color" href="{{ page.url }}">{{page.title}}</a></h1>
                         <p class="slider-desc">{{ page.date | date: "%B %-d, %Y" }} | {{ page.speaker }}</p>
+                        
+                        {% if page.eventbrite %}
                         <a href="{{ page.eventbrite }}" class="btn btn-lg btn-white">Register for meeting</a>
+                        {% endif %}
+                        
                     </li>
                     {% endif %}
                     {% endfor %}

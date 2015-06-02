@@ -7,8 +7,11 @@
 
         {% include fullMeeting.html %}
 
+        {% if page.eventbrite %}
         <div class="col-sm-6 col-sm-offset-3 col-xs-12">
         <a href="{{ page.eventbrite }}" class="btn btn-lg btn-theme">Register For Meeting</a>
+        {% endif %}
+
     {% endif %}
     {% endfor %}
 
