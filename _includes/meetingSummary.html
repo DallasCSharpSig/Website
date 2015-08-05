@@ -24,7 +24,9 @@
         {%  endif %}
     </ul>
 
+    {% for item in page.abstract %}
     <p>
-        {{ page.abstract}}
+        {{ item }}
     </p>
+    {% endfor %}
 </div>

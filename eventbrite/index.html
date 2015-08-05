@@ -9,7 +9,11 @@ layout: justbootstrap
 
 <p><strong><u>Abstract</u></strong></p>
 
-<p>{{ meeting.abstract }}</p>
+{% for item in meeting.abstract %}
+    <p>
+        {{ item }}
+    </p>
+{% endfor %}
 
 <p><strong><u>{{meeting.speaker}}'s Bio</u></strong></p>
 

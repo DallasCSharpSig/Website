@@ -25,9 +25,13 @@
     </ul>
 
     <h3>Abstract</h3>
+    
+    {% for item in page.abstract %}
     <p>
-        {{ page.abstract}}
+        {{ item }}
     </p>
+    {% endfor %}
+
 
     {% if page.bio %}
     <h3>{{ page.speaker }}'s Bio</h3>
