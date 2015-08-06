@@ -22,6 +22,15 @@
             </a>
         </li>
         {%  endif %}
+
+        {% if page.github %}        
+        <li>|</li>
+        <li>
+            <a href="{{ page.github }}" class="hover-color">
+                <i class="ion-social-github-outline"></i>
+            </a>
+        </li>
+        {% endif %}
     </ul>
 
     {% for item in page.abstract %}
