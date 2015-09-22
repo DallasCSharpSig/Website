@@ -1,7 +1,7 @@
 ---
 layout: meeting
 
-date: 2015-3-5
+date: 2015-03-5
 
 title: March Meeting Has Been Canceled Due To Weather
 

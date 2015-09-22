@@ -1,7 +1,7 @@
 ---
 layout: meeting
 
-date: 2015-5-7
+date: 2015-05-7
 
 title: Using Bitcoin with C#
 

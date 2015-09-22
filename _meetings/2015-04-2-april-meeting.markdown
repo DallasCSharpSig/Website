@@ -1,7 +1,7 @@
 ---
 layout: meeting
 
-date: 2015-4-2
+date: 2015-04-2
 
 title: Asp.net VNext
 

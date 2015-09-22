@@ -1,7 +1,7 @@
 ---
 layout: meeting
 
-date: 2015-6-4
+date: 2015-06-4
 
 title: Happy 4th of July!
 

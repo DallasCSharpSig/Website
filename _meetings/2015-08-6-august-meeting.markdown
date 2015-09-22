@@ -1,7 +1,7 @@
 ---
 layout: meeting
 
-date: 2015-8-6
+date: 2015-08-6
 
 title: Mastering the JavaScript this Keyword
 

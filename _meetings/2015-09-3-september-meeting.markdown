@@ -1,7 +1,7 @@
 ---
 layout: meeting
 
-date: 2015-9-3
+date: 2015-09-3
 
 title: Intro to C# v6.0 and Visual Studio 2015
 

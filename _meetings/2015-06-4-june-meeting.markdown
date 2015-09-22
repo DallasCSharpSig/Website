@@ -1,7 +1,7 @@
 ---
 layout: meeting
 
-date: 2015-6-4
+date: 2015-06-4
 
 title: Windows 10 on the Raspberry Pi 2
 

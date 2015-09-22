@@ -1,7 +1,7 @@
 ---
 layout: meeting
 
-date: 2015-1-8
+date: 2015-01-8
 
 title: Visual Studio 2015 Goodness
 

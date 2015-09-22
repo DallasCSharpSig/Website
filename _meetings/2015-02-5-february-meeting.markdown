@@ -1,7 +1,7 @@
 ---
 layout: meeting
 
-date: 2015-2-5
+date: 2015-02-5
 
 title: Functional Programming via C#
 

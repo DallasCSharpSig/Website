@@ -45,9 +45,11 @@
 
     {% if page.bio %}
     <h3>{{ page.speaker }}'s Bio</h3>
+    {% for item in page.bio %}
     <p>
-        {{ page.bio }}
+        {{ item }}
     </p>
+    {% endfor %}
     {% endif %}
 
 </div>
