@@ -1,0 +1,24 @@
+---
+layout: meeting
+
+date: 2015-12-3
+
+title: Always Connected With Windows 10 Apps
+
+speaker: Tony Champion
+
+twitter: tonychampion
+
+eventbrite: http://csharpsigDecember2015.eventbrite.com
+
+abstract: [
+"Demands and expectations of modern apps are much different than their predecessors. One thing that users expect is that their apps are 'always connected'. They expect things like notifications if something is new or changes and to share information between devices. This session will take a look at strategies to accomplish this in the world of Windows 10 apps. We will look at creating always connected apps that spans devices as well as platforms and you will leave with an understanding of what it takes to accomplish this in your own apps.",
+
+"- Review structures for sharing data between devices",
+"- How to use notifications to keep the user informed",
+"- Take advantage of the app life cycle to present an up to date UI",
+"- Using background tasks to keep your app connected"]
+
+bio: "Tony Champion is a software architect with over 19 years of experience developing with Microsoft technologies. As the president of Champion DS and its lead software architect, he remains active in the latest trends and technologies, creating custom solutions on Microsoft platforms. Tony is an active participant in the community as a Microsoft MVP, international speaker, published author, and blogger. He focuses on a wide range of technologies from web solutions to native apps on Windows Phone and Windows to Xbox One development. He can be found on his blog at tonychampion.net and on twitter at @tonychampion."
+
+---
