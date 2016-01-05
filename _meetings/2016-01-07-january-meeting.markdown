@@ -1,7 +1,7 @@
 ---
 layout: meeting
 
-date: 2016-01-3
+date: 2016-01-7
 
 title: Trust me Azure event hubs are really cool!
 
