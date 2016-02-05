@@ -9,6 +9,8 @@ speaker: Kris McGinnes
 
 twitter: kmcginnes
 
+github: https://github.com/kmcginnes/CSharpSig.Reactive
+
 eventbrite: http://csharpsigFebruary2016.eventbrite.com
 
 abstract: [
