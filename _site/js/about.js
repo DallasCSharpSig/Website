@@ -5,7 +5,7 @@
 	var marker;
 
 	function initialize() {
-		myLatlng = new google.maps.LatLng(32.9770235,-96.8268895);
+		myLatlng = new google.maps.LatLng(33.0777929,-96.809309);
 
 		var mapOptions = {
 		  zoom: 16,
@@ -16,7 +16,7 @@
 		};
 		map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
 
-		var contentString = '<p style="line-height: 20px;"><strong>Improving Enterprises, Inc.</strong></p><p>16633 Dallas Parkway #100 Addison, TX 75001</p>';
+		var contentString = '<p style="line-height: 20px;"><strong>Improving</strong></p><p>5445 Legacy Drive, Suite 100 Addison, TX 75001</p>';
 
 		var infowindow = new google.maps.InfoWindow({
 		  content: contentString
