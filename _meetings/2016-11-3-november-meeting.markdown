@@ -12,6 +12,8 @@ twitter: trayburn
 eventbrite: http://csharpsigNovember2016.eventbrite.com
 
 abstract: [
+"This months meeting is in the new Improving offices!",
+"5445 Legacy Drive, Suite 100 Plano, Tx  75024",
 "In this highly interactive session, group attendees will have a chance to explain a problem in 1-2 minutes which Tim will then spend time explaining his proposed solution to.  This is your chance to put Tim Rayburn on the spot, and try to get answers to your most difficult architectural problems.  Any type of problems are welcome, as are hypotheticals, just be prepared to answer questions that might come up."
 ]
 
